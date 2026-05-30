@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+
+# Configuración local de Claude Code (permisos/credenciales de esta máquina)
+.claude/settings.local.json
+
+# Credenciales / entorno
+.env
+.env.*
+*.key
+
+# Videos renderizados (grandes y regenerables)
+*.mp4
+
+# Clips crudos descargados de fal/PiAPI
+clips/
+clips_v3/
+
+# Logs de lote generados por los scripts
+batch_log.json
+keyframes_log.json
+**/batch_log.json
+**/keyframes_log.json
+
+# Temporales del SO
+Thumbs.db
+.DS_Store
