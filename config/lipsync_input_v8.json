@@ -1,0 +1,52 @@
+[
+  {
+    "n": "01",
+    "video": "clips/v8/raw_01.mp4",
+    "audio": "audio/v8/seg_01.wav"
+  },
+  {
+    "n": "02",
+    "video": "clips/v8/raw_02.mp4",
+    "audio": "audio/v8/seg_02.wav"
+  },
+  {
+    "n": "04",
+    "video": "clips/v8/raw_04.mp4",
+    "audio": "audio/v8/seg_04.wav"
+  },
+  {
+    "n": "05",
+    "video": "clips/v8/raw_05.mp4",
+    "audio": "audio/v8/seg_05.wav"
+  },
+  {
+    "n": "06",
+    "video": "clips/v8/raw_06.mp4",
+    "audio": "audio/v8/seg_06.wav"
+  },
+  {
+    "n": "07",
+    "video": "clips/v8/raw_07.mp4",
+    "audio": "audio/v8/seg_07.wav"
+  },
+  {
+    "n": "08",
+    "video": "clips/v8/raw_08.mp4",
+    "audio": "audio/v8/seg_08.wav"
+  },
+  {
+    "n": "10",
+    "video": "clips/v8/raw_10.mp4",
+    "audio": "audio/v8/seg_10.wav"
+  },
+  {
+    "n": "11",
+    "video": "clips/v8/raw_11.mp4",
+    "audio": "audio/v8/seg_11.wav"
+  },
+  {
+    "n": "12",
+    "video": "clips/v8/raw_12.mp4",
+    "audio": "audio/v8/seg_12.wav"
+  }
+]

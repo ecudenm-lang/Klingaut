@@ -16,6 +16,12 @@ node_modules/
 clips/
 clips_v3/
 
+# Audio cortado por toma (regenerable con cut_audio.mjs desde la voz V<n>.mp3)
+audio/
+
+# Frames extraídos de los videos de referencia (regenerables con ffmpeg)
+Videos a iterar/frames/
+
 # Logs de lote generados por los scripts
 batch_log.json
 keyframes_log.json

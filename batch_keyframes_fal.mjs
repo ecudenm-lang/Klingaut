@@ -134,8 +134,9 @@ const confirmed = await new Promise((res) => {
 });
 if (!confirmed) { console.log("\n🚫  Cancelado. No se gastaron créditos.\n"); process.exit(0); }
 
-const assetsDir = resolve(process.cwd(), `assets_${lote}`);
+const assetsDir = resolve(process.cwd(), "assets", lote);
 mkdirSync(assetsDir, { recursive: true });
+mkdirSync(resolve(process.cwd(), "config"), { recursive: true });
 
 function uniquePath(base) {
   if (!existsSync(base)) return base;
@@ -174,8 +175,8 @@ const results = await Promise.allSettled(
 );
 
 // ─── Cargar mapas acumulativos existentes ─────────────────────────────────────
-const mapPath   = resolve(process.cwd(), `kf_map_${lote}.json`);
-const batchPath = resolve(process.cwd(), `batch_input_${lote}.json`);
+const mapPath   = resolve(process.cwd(), "config", `kf_map_${lote}.json`);
+const batchPath = resolve(process.cwd(), "config", `batch_input_${lote}.json`);
 const kfMap   = existsSync(mapPath)   ? JSON.parse(readFileSync(mapPath, "utf-8"))   : {};
 let   batchIn = existsSync(batchPath) ? JSON.parse(readFileSync(batchPath, "utf-8")) : [];
 const batchByN = new Map(batchIn.map(b => [b.n, b]));

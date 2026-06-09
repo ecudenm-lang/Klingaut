@@ -1,0 +1,50 @@
+[
+  {
+    "n": "01",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png",
+    "prompt": "The glucometer character leans forward and points accusingly at the viewer, its screen-face eyes narrowing and its display flickering as it scolds. Camera: slow push-in to its screen-face. negative_prompt: deformed, creepy, extra limbs, melted, distorted text, watermark, logo, blurry, camera spinning, floating, realistic human",
+    "duration": "10"
+  },
+  {
+    "n": "02",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad3/2MIwJgzg6gDxZZNxTzkLj_LSZwrs6e.png",
+    "prompt": "The glucometer's screen flashes '340' angrily while hard sugar scale crusts along the cartoon veins behind it. Camera: slow push-in. negative_prompt: deformed, creepy, gore, distorted text, watermark, logo, blurry, camera spinning, floating, realistic human",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad3/nA8dt6_jFgQk0yJwzb63__qp5QjD77.png",
+    "prompt": "The exhausted man drags himself up rubbing his face while the glucometer watches him judgmentally from the nightstand. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad8/Gr9htLvWkWsEd_84zbCeP_ZoMEqoYY.png",
+    "prompt": "The glowing cartoon nerve wires buzz and flicker out one by one as the tingle sparkles fade. Camera: slow push-in to a flickering nerve. negative_prompt: realistic anatomy, gore, creepy, deformed, x-ray, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad3/1lil7EkZwomzmiOSPc_pq_nuVtl73V.png",
+    "prompt": "The glucometer shows '200' while the two cartoon kidneys get coated and clogged with sugar, straining. Camera: slow push-in. negative_prompt: realistic organ, gore, creepy, deformed, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad8/XhnAg2eKK1rKgqgR5Y4Vc_ueYWPdMx.png",
+    "prompt": "The glucometer's number climbs, then warm golden light breaks in and the Biozentra pouch appears glowing; the glucometer looks up hopeful toward it. Camera: slow push-in to the pouch. negative_prompt: deformed label, distorted text, duplicated pouch, creepy, extra limbs, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad3/0qdASqfcKRZe2DOlJgUs5_DrDpYtuL.png",
+    "prompt": "The rested healthy man smiles with his family while the glucometer proudly displays a healthy green number. Camera: slow gentle push-in. negative_prompt: deformed face, deformed hands, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6ad8/ZfqGImFsiu5Lm0gSe5KZi_8Vkc0SQa.png",
+    "prompt": "The cell doors open letting golden sugar flow inside around the glowing Biozentra pouch as the glucometer is lifted from the drawer into the warm light, displaying a healthy number and inviting the viewer. Camera: slow heroic push-in. negative_prompt: deformed label, distorted text, duplicated pouch, creepy, extra limbs, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  }
+]

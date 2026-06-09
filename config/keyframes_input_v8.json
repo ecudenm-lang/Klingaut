@@ -1,0 +1,86 @@
+[
+  {
+    "n": "01",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The Ceylon cinnamon-stick doctor mascot (from the reference image, same identity) stands inside a dim cold stone prison cell, gripping the cold iron bars of a heavy cell door that is slowly closing, an old wooden pendulum wall clock on the stone wall behind him, anxious worried expression. Cold blue dramatic cinematic lighting with a faint warm amber accent, shallow depth of field, moody, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor pushes against the heavy iron cell bars as they slowly close, the pendulum of the wall clock swinging steadily, his worried eyes glance toward the clock, his mouth moving as he speaks to camera. Grounded, cinematic, no camera orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "02",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands in a bright clinical room beside a large glowing translucent body cell whose round door is slowly shutting; golden glucose spheres pile up locked outside the closed cell, unable to enter. He gestures toward the cell with concern. Clean clinical lighting, warm amber accent, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor gestures toward the large cell as its round door slowly closes and golden glucose spheres bounce and pile up locked outside, his mouth moving as he explains to camera. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands in a clean clinic in front of a large wall infographic showing a four-stage progression of body cells: Healthy, Prediabetes, Cells locking shut, Type 2 Diabetes, with arrows shifting from green to red. He stands with arms open explaining. Clean clinical lighting, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor opens his arms and gestures across the four-stage chart as the arrow advances from green toward red, his mouth moving as he speaks, concerned but composed. Grounded, cinematic, no orbit.",
+    "duration": "5"
+  },
+  {
+    "n": "04",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands in a sunny lush green Ceylon cinnamon plantation with rolling hills, warm golden sunrise light, hopeful uplifting expression, arms slightly open. Warm cinematic lighting, amber accent, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. A gentle breeze moves the green plants, the cinnamon doctor smiles warmly and opens his arms toward the sunny plantation, soft sun rays, his mouth moving as he speaks, hopeful. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot holds a glowing golden key and inserts it into the keyhole of a large translucent body-cell door that is reopening with warm light spilling out. Confident hopeful expression. Clinical-fantasy setting, warm amber glow, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor turns the glowing golden key in the cell-door keyhole and the round door slowly swings open, releasing warm golden light, his mouth moving as he speaks, gentle and triumphant. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands beside a giant translucent purple body cell with an open round door; glowing golden MCT oil droplets stream through the doorway directly into the cell. He presents the flow with one hand. Vibrant amber and purple, soft lighting, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. Glowing golden oil droplets flow smoothly through the open cell door into the cell, the cinnamon doctor gestures presenting the flow, his mouth moving as he speaks, confident. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot has a serious warning expression and holds up one hand in a 'beware' gesture, beside a cheap dark 'CASSIA' cinnamon-bark label marked with a red warning sign and a small cartoon stressed sweating liver character. Moody darker lighting with a red accent, highly detailed. Cartoon stylized liver, not anatomical.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor raises his hand in a 'stop, beware' gesture, frowning, the red warning sign pulses and the little cartoon liver looks stressed and sweats, his mouth moving as he speaks sternly. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands in a clean bright forest beside a river, holding up a genuine light-brown Ceylon cinnamon quill in one hand and presenting the Biozentra product pouch (from the reference packaging image) in the other hand, reassuring confident smile. Fresh natural lighting, amber accent, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor lifts the light Ceylon cinnamon quill and presents the Biozentra pouch with a reassuring nod, fresh forest and river behind him, his mouth moving as he speaks. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "09",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot holds a magnifying glass examining a supplement label; behind him a warm group of diverse happy healthy people of different ages smiling. Bright hopeful lighting, amber accent, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor lifts the magnifying glass to the label then turns toward the smiling group of people, his mouth moving as he speaks, reassuring. Grounded, cinematic, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "10",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands in a warm cozy family kitchen holding the Biozentra product pouch (from the reference packaging image) and a spoonful, a happy family softly blurred at the breakfast table behind him; on the counter a downward A1C trend chart dropping from 6.2% to 5.4%. Warm morning light, amber accent, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor holds up the Biozentra pouch and a spoonful with a warm smile, the family smiles in the background, the A1C chart arrow ticks downward, his mouth moving as he speaks cheerfully. Grounded, cinematic, no orbit.",
+    "duration": "5"
+  },
+  {
+    "n": "11",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot confidently presents the Biozentra product pouch (from the reference packaging image) with both hands, a glowing golden '60 DÍAS GARANTÍA' guarantee seal badge beside him. Clean warm studio background, trustworthy lighting, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor presents the Biozentra pouch and gestures to the glowing 60-day guarantee seal with a confident reassuring smile, his mouth moving as he speaks. Grounded, cinematic, no orbit.",
+    "duration": "5"
+  },
+  {
+    "n": "12",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot stands at a fork in a path: one road leads to a grey pharmacy building, the other to a bright sunny green natural path. He points down toward the viewer (to a link below) with a confident warm smile. Cinematic hopeful lighting, amber accent, shallow depth of field, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor gestures toward the bright natural path then points down toward the camera, a warm confident smile, gentle breeze, his mouth moving as he speaks. Grounded, cinematic, no orbit.",
+    "duration": "5"
+  }
+]

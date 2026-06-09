@@ -1,0 +1,56 @@
+[
+  {
+    "n": "01",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a00/-0ewMa13RartI67pDaZVF_pnx7clgZ.png",
+    "prompt": "The mother looks straight at the viewer and speaks softly and vulnerably, her mouth moving naturally as she talks, her eyes glistening with held-back emotion. Camera: slow push-in to her face. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "02",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a03/wOcGaojeSHkHEUrSFaxln_RXTQdBZ9.png",
+    "prompt": "The little girl gently combs her mother's hair and looks up asking innocently; the mother's eyes lower with bittersweet emotion. Camera: slow gentle push-in. negative_prompt: deformed face, deformed hands, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a03/MBhTmCBGHJQHGeFYPFunH_bfD7HkBV.png",
+    "prompt": "The graduating girl smiles on stage as petals and applause drift around her; the camera drifts to the empty chair with the folded cardigan. Camera: slow melancholic push-in to the empty chair. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a02/I3fikFRiPKFwLhin65CKW_c65x7Qnn.png",
+    "prompt": "The mother wakes in the dark, rubs her eyes wearily and glances at the glowing 3:00 clock, then sits up tiredly. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "05",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a03/03z-unEqx0Wv8SCnCw1CA_WP7VhWrA.png",
+    "prompt": "The mother lifts her chin with growing determination and speaks resolutely to the viewer, mouth moving, a strengthening resolve in her eyes. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "06",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a03/DbOgU0SVE2gwmuf5XAjt-_5NfwKKWr.png",
+    "prompt": "On the phone screen the cartoon liver pours out golden sugar cubes while the metformina pill bounces uselessly outside; the hands hold the phone steady. Camera: slow push-in to the screen. negative_prompt: realistic organ, anatomical, x-ray, medical render, gore, creepy, deformed, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a02/zvVIKCDUeDEqfxkIN95bi_nnJ84wxJ.png",
+    "prompt": "The warm cinnamon essence flows to the cells, their little doors open and golden sugar streams gently inside; the pouch glows warmly with the two capsules beside it. Camera: slow push-in toward an opening cell door. negative_prompt: realistic organ, gore, creepy, deformed, distorted text, deformed label, duplicated pouch, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a02/fS8nVlmNhbd73GwqD0Bkn_gAA0Rd5p.png",
+    "prompt": "The mother smiles with relief holding up the green '103' meter while her daughter hugs her; she speaks warmly to the viewer, mouth moving. Camera: slow gentle push-in. negative_prompt: deformed face, deformed hands, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "09",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6a02/-luhS0SIFpiqqGADgM7fK_Tp49bTlP.png",
+    "prompt": "The mother looks straight at the viewer, warm and sincere, holds up the Biozentra pouch and speaks the heartfelt call to action, mouth moving, a soft inviting smile. Camera: slow heroic push-in. negative_prompt: deformed label, distorted text, duplicated pouch, creepy face, extra fingers, dead eyes, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  }
+]

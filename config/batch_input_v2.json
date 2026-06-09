@@ -1,0 +1,68 @@
+[
+  {
+    "n": "01",
+    "image_url": "https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png",
+    "prompt": "Dra. Lucia looks straight at the viewer and speaks with calm authority, her mouth moving naturally as she talks, then a subtle slow head shake for emphasis. Camera: slow push-in to her face. The Metformina bottle stays visible in the foreground. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "02",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/QDrFK87KDZyc20yWp8k3t_Rpl75hZV.png",
+    "prompt": "Dra. Lucia mechanically slides the same pill bottle across the desk to the patient, then to the next, a tired repetitive routine. Camera: slow pan across the desk. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/RwOcYlcf0KG2mGfj2uiXz_Dk3YagEG.png",
+    "prompt": "Dra. Lucia looks down at her own glucose meter and the pill, then up at the viewer, speaking with quiet shame, mouth moving as she talks. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "04",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/Ox0mHzXeIMSEd6e0Rx-Vw_DrGh6rSd.png",
+    "prompt": "Dra. Lucia grips the car door and stares anxiously at the red glucose meter, glowing tingles flicker around her feet, she shifts uneasily and looks toward the hospital sign. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/nVaZhb43Vmw8SRGZy22MH_o2kO0Qv5.png",
+    "prompt": "Dra. Lucia looks up at the looming shadow with wide worried eyes, pulls her legs closer, then glances toward the faintly glowing cinnamon jar on the shelf, speaking softly, mouth moving. Camera: slow push-in. negative_prompt: gore, blood, severed limb, deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6916/DiJVz18EvbUUCbEOuKib8_49KqJjCG.png",
+    "prompt": "The cartoon liver sleepily drips glowing golden sugar cubes that pile up at night, while the little metformina pill bounces against the doorway outside, unable to reach it. Camera: slow push-in to the liver. negative_prompt: realistic organ, anatomical, x-ray, medical render, gore, creepy, deformed, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "07",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/KuGyyc1AIphoJIrXUhqRU_HHtYRZs8.png",
+    "prompt": "Dra. Lucia holds up the pill with controlled indignation and speaks firmly to the viewer, mouth moving, shaking her head once. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/8h3d5rM3eaQytBieoe8Fw_lowHJp0r.png",
+    "prompt": "Warm golden light fills the study; Dra. Lucia lifts the Biozentra pouch with hope and a soft smile, mouth moving as she names it. Camera: slow push-in to the pouch. negative_prompt: deformed label, distorted text, duplicated pouch, creepy face, extra fingers, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "09",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/fXwMutBIAx-JBTFjOA5uT_EsdmvqH6.png",
+    "prompt": "The warm cinnamon essence flows to the cells, their little doors open, the golden sugar particles stream gently inside, and the meter ticks down to 112. Camera: slow push-in toward an opening cell door. negative_prompt: realistic organ, gore, creepy, deformed, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "10",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/etbpsWhsLGmw2BkLGuSgS_FMAvd6ZN.png",
+    "prompt": "Dra. Lucia holds up the green '112' meter toward the morning light with a relieved, rested smile, then lowers it calmly. Camera: slow gentle push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "11",
+    "image_url": "https://v3b.fal.media/files/b/0a9d690f/hEtawTEhD9Sahoyi_rBVt_ozc3BffY.png",
+    "prompt": "Dra. Lucia looks straight at the viewer, firm but warm, holds up the Biozentra pouch and speaks the call to action with a half-smile, mouth moving, then a small inviting gesture toward the viewer. Camera: slow heroic push-in. negative_prompt: deformed label, distorted text, duplicated pouch, creepy face, extra fingers, dead eyes, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  }
+]

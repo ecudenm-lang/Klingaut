@@ -1,0 +1,14 @@
+[
+  { "n": "01", "start": 0.00,  "end": 7.84,  "gen": 10, "guion": "Tus células todavía están abiertas, en parte. Pero la resistencia a la insulina las está cerrando, lento, en silencio. Aún hay tiempo, pero esa ventana no se queda abierta para siempre." },
+  { "n": "02", "start": 7.84,  "end": 14.80, "gen": 10, "guion": "Si tu azúcar en sangre está subiendo, la razón es la resistencia a la insulina. Tus células se van cerrando poco a poco, e impiden que la glucosa entre donde debe." },
+  { "n": "03", "start": 14.80, "end": 20.01, "gen": 5,  "guion": "Si no se corrige, la prediabetes se vuelve diabetes tipo 2. La ventana para revertirlo está abierta ahora, pero no por mucho." },
+  { "n": "04", "start": 20.01, "end": 26.93, "gen": 10, "guion": "Durante miles de años, una especia ha hecho lo que ninguna receta ofreció: volver a abrir esas puertas celulares, de forma natural, antes de que se cierren para siempre." },
+  { "n": "05", "start": 26.93, "end": 33.24, "gen": 10, "guion": "La canela de Ceilán de verdad tiene compuestos que imitan a la insulina. Actúan como llaves que reabren las puertas que la resistencia fue cerrando en silencio." },
+  { "n": "06", "start": 33.24, "end": 39.97, "gen": 10, "guion": "Y envuelta en aceite MCT, llega directo a tus células, en lugar de pasar de largo como cada cápsula de polvo que probaste antes." },
+  { "n": "07", "start": 39.97, "end": 46.24, "gen": 10, "guion": "Pero cuidado: el 90% de los suplementos de canela usan canela Cassia barata. Contiene un compuesto que estresa tu hígado todos los días." },
+  { "n": "08", "start": 46.24, "end": 53.18, "gen": 10, "guion": "Lo último que necesitas mientras intentas revertir la prediabetes es algo que le suma carga a tu cuerpo. Biozentra tiene 250 veces menos de eso." },
+  { "n": "09", "start": 53.18, "end": 60.71, "gen": 10, "guion": "La mayoría de las marcas espera que nunca leas la etiqueta. Miles de personas recibieron la misma advertencia que tú acabas de recibir, y nunca llegaron a ser diabéticas." },
+  { "n": "10", "start": 60.71, "end": 66.16, "gen": 5,  "guion": "Una cucharada de Biozentra cada mañana. Treinta días después, su médico les dijo: lo que sea que estés haciendo, sigue haciéndolo." },
+  { "n": "11", "start": 66.16, "end": 71.10, "gen": 5,  "guion": "Prueba Biozentra durante 60 días. O tus números mejoran, o te devolvemos hasta el último peso. Garantizado." },
+  { "n": "12", "start": 71.10, "end": 74.84, "gen": 5,  "guion": "El camino sigue ahí. El enlace está abajo: el camino que no termina en la farmacia." }
+]

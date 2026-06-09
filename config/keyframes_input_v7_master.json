@@ -1,0 +1,9 @@
+[
+  {
+    "n": "01",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, warm cinematic lighting. A friendly stylized cartoon LATINA MOTHER around 38 years old, long dark wavy hair past her shoulders, warm tired kind brown eyes, a gentle worried expression, wearing a soft cream cardigan over a simple blouse. She sits in her cozy warm living room (sofa, soft lamp, framed family photos on the wall, a few potted plants, warm wood tones) looking directly at the viewer, vulnerable and sincere. Subtle warm amber accent color. Vertical 9:16, head-and-shoulders to mid framing, lower third kept clear.",
+    "anim_prompt": "The mother looks straight at the viewer and speaks softly and vulnerably, her mouth moving naturally as she talks, her eyes glistening with held-back emotion. Camera: slow push-in to her face. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  }
+]

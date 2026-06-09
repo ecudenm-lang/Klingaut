@@ -1,0 +1,128 @@
+[
+  {
+    "n": "01",
+    "kf_prompt": "3D Pixar cartoon style, warm cinematic lighting. A villain anthropomorphic pill character standing on a wooden display table inside a pharmacy store: white top half, hot-pink bottom half, small black legs and gloved hands, wearing a white lab coat, evil Dracula-style slicked black hair, pointed ears, sinister grin showing sharp teeth, intense brown eyes. The villain holds a clipboard with an Rx prescription pad in one gloved hand and points at rows of METFORMIN 1000mg pink pill bottles stacked floor-to-ceiling on pharmacy shelves behind him. 'METFORMIN 1000mg' label printed on his torso. Above right corner: a monitor showing 'REDACTED AD METRICS' text. Plano medio, slight low angle. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Metformin villain character stands on the pharmacy table and points at the shelves of bottles behind him with one gloved finger while his other hand holds the clipboard against his chest. His expression shifts from cocky to menacing. Slow push-in toward his face. No mouth close-up — eye and gesture are the focus. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "02",
+    "kf_prompt": "3D Pixar cartoon style, warm cinematic lighting. Extreme close-up of the same villain anthropomorphic pill character: white top half, hot-pink bottom half, lab coat lapels visible, evil Dracula slicked black hair, pointed ears, huge malicious grin showing teeth, large intense brown eyes staring into camera. 'METFORMIN' label across his middle visible. Behind him slightly out of focus: pharmacy shelves packed with pink pill bottles. Dramatic rim lighting from below gives him a sinister glow. Plano muy cerrado, slight low angle. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Metformin villain fills the frame. He leans forward slowly toward the camera while his evil grin widens and one gloved hand rises into frame to point at the viewer. Slow creeping push-in. The eye stays on the sinister grinning face — not the mouth. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "kf_prompt": "3D Pixar cartoon style, warm cinematic lighting. The same villain pill character (white top, hot-pink bottom, lab coat, Dracula slicked hair, sinister grin) stands at the edge of a modern kitchen countertop, leaning on it casually with one black-gloved hand while gesturing with the other. On the countertop in the foreground: a black blood glucose meter displaying '142'. Kitchen background: dark wood cabinets, stainless stove, coffee maker, grey mug. The villain looks smug and pleased at the glucose meter reading. Plano medio, eye-level angle. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Metformin villain leans on the countertop and taps it smugly with one gloved finger, glancing between the camera and the glucose meter on the counter below. His expression shifts from smug to amused. Slow pan across from his face down to the glucose meter reading 142. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "kf_prompt": "3D Pixar cartoon style, cool clinical lighting. A white anthropomorphic pill character without villain features — smooth round face, gentle raised eyebrows, small smiling mouth, small arms — sits relaxed in a black leather office chair inside a medical examination room. The character holds a white '#1 PRESCRIBED' coffee mug in one hand and a clipboard with 'Rx Metformin' prescription papers in the other. Background: medical examination table, anatomy poster of kidneys on white wall, shelf with colorful test tubes. The office chair has a visible circular rotation base with motion blur suggesting slow spin. Plano medio, slightly elevated angle. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The white pill character in the office chair slowly rotates in the chair while sipping from the '#1 PRESCRIBED' mug and casually flipping through the prescription clipboard. The chair makes a gentle slow rotation — one quarter turn — as he looks relaxed and self-satisfied. Camera: slow push-in from eye level. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "5"
+  },
+  {
+    "n": "05",
+    "kf_prompt": "3D Pixar cartoon style, cool clinical lighting. Same white anthropomorphic pill character (round smooth face, gentle expression, small arms) sitting in the black leather office chair in the medical examination room, now shown from behind in a three-quarter rear view as the chair continues to rotate slowly. The back of the chair fills most of the frame. One small arm with the '#1 PRESCRIBED' mug peeks out from the side. Background: anatomy kidney poster, examination table, test tube shelf on white clinic walls. Slight motion blur on chair base. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The chair continues its slow rotation showing the character from behind, one arm with the coffee mug visible at the side. The chair completes its turn revealing the character from a different angle. Slow pan around following the rotation. Camera stays steady with slow lateral drift. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "5"
+  },
+  {
+    "n": "06",
+    "kf_prompt": "3D Pixar cartoon style, dark neon-lit dramatic room. The Metformin villain character (white top, hot-pink bottom, Dracula slicked hair, lab coat, black gloves) stands in the center of a dark circular stage inside 'BIG PHARMA HQ' — a dark cylindrical room with neon purple and green light strips on the walls. Behind him: a lit presentation board showing a line chart labeled 'REFILLS' trending sharply upward with a '$' icon, and a stick figure labeled 'CUSTOMER FOR LIFE'. Golden '$' dollar sign particles rain down from the ceiling all around him. He gestures toward the chart with one gloved hand, smiling broadly. Plano general, wide shot. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Metformin villain stands on the dark circular stage and sweeps his arm toward the REFILLS chart behind him while dollar signs rain down around him. He turns his head from the chart to the camera with a triumphant grin. The dollar signs fall in a slow cascade. Slow push-in from wide to medium. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_prompt": "3D Pixar cartoon style, dark moody room with single warm light from a slightly-open door in the background. A dark wooden table surface in the foreground holds an aged yellowed parchment paper document titled 'CLINICAL TRIAL: EFFECTS OF [Specific Chemical Name]' with 'RESEARCH STUDY' sections. A small miniature version of the Metformin villain (white top, hot-pink bottom, Dracula hair, lab coat) stands on the parchment looking alarmed, with one hand raised defensively and a shocked expression. Around the document: dark soil, a small seedling plant. Dramatic warm rim light from the door behind. Plano general, slightly elevated angle. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The tiny Metformin villain character on the clinical trial document spins around defensively and raises both gloved hands in protest, looking toward the bright door in the background with a panicked expression. The door light pulses gently with warm golden glow. Slow pull-back from close to wide. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "5"
+  },
+  {
+    "n": "08",
+    "kf_prompt": "3D Pixar cartoon style, dark moody room illuminated by warm golden light pouring through a slightly-open door in the background. At a dark wooden table: an aged clinical trial parchment document partially visible at the bottom. The small Metformin villain character (white/pink, Dracula hair, lab coat) sits at the left of the table looking toward the door with a shocked worried expression, hand raised toward the incoming light. Coming through the golden door light on the right: an anthropomorphic Ceylon cinnamon stick character — feminine face, warm brown textured bark skin, large expressive dark eyes, small hands visible — emerging into the dark room with a gentle curious expression. Eye contact between the two characters. Plano medio, eye-level. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Ceylon cinnamon character emerges slowly from the glowing doorway, stepping forward into the dark room while the Metformin villain recoils backward on the table. The warm golden light from the door expands gently as she enters. Slow push-in toward the cinnamon character. Camera stays level. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "5"
+  },
+  {
+    "n": "09",
+    "kf_prompt": "3D Pixar cartoon style, dark moody room with warm golden door light in the background. Close-up of the anthropomorphic Ceylon cinnamon stick character: tall feminine figure with warm brown textured bark body, large expressive brown eyes with long lashes, gentle confident smile, small hands open in a welcoming gesture resting on the dark wooden table surface. Behind her slightly: the warm glow of the open door. Partially visible at the bottom of frame: the aged clinical trial document. A few real cinnamon sticks lie on the table near her. Plano medio cerrado, slight low angle looking up at her. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Ceylon cinnamon character leans forward slightly on the table with her hands open, gesturing toward the camera in an explaining, presenting manner. Her expressive eyes widen as she makes her point, and she spreads her hands apart slowly. Slow push-in toward her face and hands. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "5"
+  },
+  {
+    "n": "10",
+    "kf_prompt": "2D animated infographic style, flat cartoon design. A split-screen comparison panel divided vertically into two halves. LEFT HALF (red-tinted background): header shows the Metformin villain face cartoon + a pink pill icon labeled 'Metformin'. Text: 'Metformin tells your liver to stop releasing sugar.' Below: cartoon anatomical liver with a red STOP sign in front of it. Bottom box labeled 'Side effect: your whole gut pays the price' with a cartoon intestine icon showing distress marks. RIGHT HALF (warm beige background): header shows the Ceylon cinnamon cartoon face + cinnamon stick icon. Text: 'Ceylon helps your cells open up and let sugar in.' Below: a cartoon cell with a door opening and golden sugar drops flowing in. Bottom box labeled 'Side effect: none.' with a green checkmark and happy face emoji. Clean bold typography. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The split-screen infographic animates with the left panel elements appearing first — the STOP sign pulses red — then the right panel elements animate: the cell door swings open and golden drops fall in. The two character face icons at the top bob gently. Slow pan from top to bottom of the infographic. static background, elements animate within frame. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "11",
+    "kf_prompt": "2D animated infographic style, flat cartoon design. Same split-screen panel as previous shot, now focusing on the mechanism detail in the center area. LEFT HALF (red): the anatomical liver with the STOP sign, now with small lightning bolt arrows showing blocked sugar signals firing outward from the liver toward kidneys. RIGHT HALF (warm beige): a close-up of the cartoon cell door — now shown fully open — with multiple golden sugar droplets pouring through the opening and filling the interior with warm light. Both character header icons visible at top. Bottom side-effect boxes visible. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "On the left panel the liver lightning bolts pulse outward in a slow rhythm showing stress. On the right panel the golden sugar droplets fall steadily through the open cell door filling it with warm glow. The right panel brightens progressively. Slow pan across from left to right panel. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "12",
+    "kf_prompt": "2D animated infographic style, flat cartoon design. Same split-screen comparison. LEFT HALF: shows the liver in grey/greyed-out style with the STOP sign now crossed-out (an X over it), and a small brain icon with electricity arcs, and kidneys below with downward arrows — showing systemic stress. RIGHT HALF: shows a glass laboratory beaker filled with ornate cinnamon-inspired molecular structures — DNA-like double-helix shapes made of warm brown cinnamon tones with gold molecule nodes attached. Small sugar molecules floating around them. The Ceylon cinnamon character face at the top right looks excited and pleased. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The left panel's organs pulse with stress indicators in a slow rhythm. The right panel's molecular beaker swirls gently — the cinnamon molecules rotate slowly inside the liquid. The cinnamon face icon at top right blinks happily. Slow push-in toward the right panel beaker. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "13",
+    "kf_prompt": "2D animated infographic style, flat cartoon design. Same split-screen. LEFT HALF now fully greyed-out and faded with a large red X across the entire left panel, the gut side-effect box highlighted with a pulsing red border. RIGHT HALF fully bright and golden: the molecular beaker glows warmly, the cell door is wide open with golden light filling the interior and small happy-face particles floating upward. The Ceylon cinnamon character at top right raises both small hands in a thumbs-up gesture. Bottom right side-effect box shows a large green checkmark and smiley face. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The left panel slowly fades to grey as the red X stamps over it with a thud-like animation. The right panel brightens and expands slightly as the cinnamon character raises her arms in victory. Golden particles float upward from the cell. Slow pan bottom-to-top across the right panel celebrating. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "14",
+    "kf_prompt": "3D Pixar cartoon style, bright modern laboratory. The anthropomorphic Ceylon cinnamon character (tall feminine bark figure, warm brown texture, large expressive dark eyes, gentle smile) stands inside a large clear glass PYREX 200ml laboratory beaker placed on a stainless steel lab bench. Her body fits inside the beaker, arms resting on the rim. She holds one hand up in a presenting gesture. Background: clinical white laboratory with pipettes, Erlenmeyer flasks with orange liquid, lab scale equipment, and a monitor screen showing a red-ball-and-stick molecule model. Warm overhead lighting. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Ceylon cinnamon character stands inside the glass beaker and raises one hand slowly to tap the beaker glass from inside, then opens her hand in a presenting gesture toward the camera. She looks confident and pleased. Slow push-in toward her face above the beaker rim. Camera eye level with the top of the beaker. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "15",
+    "kf_prompt": "3D Pixar cartoon style, bright modern laboratory. The same Ceylon cinnamon character (tall feminine bark figure, brown textured skin, large expressive eyes with lashes, confident smile) still inside the large clear PYREX glass beaker on the lab bench. Now she holds both arms out wide along the rim of the beaker in an open embracing gesture, looking directly at the camera with a knowing smile and slightly raised eyebrow. The lab background behind her: white walls, scientific equipment, the molecule screen monitor. She looks proud and a little sassy. Plano medio cerrado. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Ceylon cinnamon character spreads her arms along the beaker rim and tilts her head slightly with a confident knowing expression, as if revealing a secret. She shifts her weight gently side to side while holding the rim. Slow pan from her face down to her hands on the beaker rim and back up. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "16",
+    "kf_prompt": "3D Pixar cartoon style, clean warm natural light. The anthropomorphic Ceylon cinnamon character (tall feminine bark figure, warm brown textured body, large expressive eyes, gentle smile) stands on a white marble countertop surface next to a product pouch: a white and brown standup pouch bag labeled 'Primal Remedies CEYLON CINNAMON made with organic MCT oil' with a cinnamon stick and honey bowl image on the label. The character stands at the left side of the pouch, facing it with a shy curious expression, one hand covering her mouth in surprise. Books slightly blurred in the background. Clean minimal styling. Plano medio, eye-level. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Ceylon cinnamon character turns from looking at the pouch to looking at the camera, lowering her hand from her mouth slowly as if about to reveal something. She takes a small step closer to the pouch and places one hand on it gently. Slow push-in toward both the character and the pouch together. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "17",
+    "kf_prompt": "3D Pixar cartoon style, clean warm natural light. The same Ceylon cinnamon character on the white marble surface now stands slightly to the left of the 'Primal Remedies CEYLON CINNAMON' pouch (same white/brown standup pouch), facing the camera with a proud confident smile, both arms open in a presenting gesture toward the pouch beside her as if introducing it. Her posture is tall and proud. The pouch label is fully visible and readable. Blurred books and white background behind. Plano medio, eye-level. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The Ceylon cinnamon character sweeps one arm toward the product pouch in a slow presenting motion, then taps it lightly with her fingertip and looks back at the camera with a smile. The pouch stands still and prominent. Slow pan from character to pouch and back to character. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "10"
+  },
+  {
+    "n": "18",
+    "kf_prompt": "3D Pixar cartoon style, clean bright white background with warm light. Hero product shot: the 'Primal Remedies CEYLON CINNAMON made with organic MCT oil' white and brown standup pouch stands large and centered. The pouch label shows: brand name, 'CEYLON CINNAMON' in bold brown, 'made with organic MCT oil', icons for SIOO FREE / GLUTEN FREE / LAB TESTED, cinnamon sticks and honey bowl image, and 'DIETARY SUPPLEMENT 30 SOFT' at the bottom. Golden oval softgel capsules rain down from above and pile around the base of the pouch. At the bottom-right corner: a tiny defeated Metformin villain (now miniature scale, still Dracula hair and lab coat) sits on a pile of his own tiny pink pill boxes looking sorry and angry. Top of frame: yellow banner text area. Plano general, slightly elevated angle. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "Golden softgel capsules rain down slowly from the top of frame, landing around the product pouch and piling up at its base. The product pouch stays prominently centered. The tiny Metformin villain at bottom-right throws up his hands in frustration and slumps his shoulders in defeat. Slow pull-back from medium to wide. negative_prompt: floating in void, spinning, orbiting, weightless, screensaver, static posing at camera, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": "5"
+  }
+]

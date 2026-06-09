@@ -1,0 +1,12 @@
+[
+  { "n": "01", "start": 0.00,  "end": 8.25,  "gen": 10, "guion": "Soy la canela de Ceilán de verdad. Y te ayudo a controlar tu azúcar, ayudando a tu cuerpo a recibirla y a regularla." },
+  { "n": "02", "start": 8.25,  "end": 13.62, "gen": 5,  "guion": "Porque el verdadero enemigo no es tu diabetes, no es tu dieta, no es tu medicamento." },
+  { "n": "03", "start": 13.62, "end": 18.48, "gen": 5,  "guion": "Es tu hígado, que libera glucosa todas las noches, sin control." },
+  { "n": "04", "start": 18.48, "end": 28.28, "gen": 10, "guion": "Por eso sientes hormigueo, por eso vives cansada, por eso vas al baño a cada rato. No es casualidad: es tu hígado produciendo azúcar sin parar." },
+  { "n": "05", "start": 28.28, "end": 37.02, "gen": 10, "guion": "Soy la metformina. Llevo años intentando ayudarte, pero solo empujo un poco de azúcar a los músculos. No ataco la fábrica que la produce." },
+  { "n": "06", "start": 37.02, "end": 46.69, "gen": 10, "guion": "Pero yo sí llego directo. Ayudo a calmar esa fábrica de azúcar y a que tus células por fin reciban la glucosa. Por eso me llaman la metformina natural." },
+  { "n": "07", "start": 46.69, "end": 54.41, "gen": 10, "guion": "Y para que tu cuerpo me absorba de verdad, voy envuelta en aceite de coco MCT, que me lleva directo a tus células." },
+  { "n": "08", "start": 54.41, "end": 62.63, "gen": 10, "guion": "Por eso existe Biozentra: la canela de Ceilán más pura y concentrada, envuelta en MCT." },
+  { "n": "09", "start": 62.63, "end": 68.06, "gen": 5,  "guion": "Controla tu diabetes antes de que la diabetes te controle a ti. Tú decides." },
+  { "n": "10", "start": 68.06, "end": 72.13, "gen": 5,  "guion": "Haz clic abajo y empieza a regular tu azúcar de forma natural." }
+]

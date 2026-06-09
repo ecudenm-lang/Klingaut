@@ -1,0 +1,8 @@
+[
+  { "n": "01", "video": "clips_v5/raw_01.mp4", "audio": "audio_v5/seg_01.wav" },
+  { "n": "02", "video": "clips_v5/raw_02.mp4", "audio": "audio_v5/seg_02.wav" },
+  { "n": "03", "video": "clips_v5/raw_03.mp4", "audio": "audio_v5/seg_03.wav" },
+  { "n": "04", "video": "clips_v5/raw_04.mp4", "audio": "audio_v5/seg_04.wav" },
+  { "n": "06", "video": "clips_v5/raw_06.mp4", "audio": "audio_v5/seg_06.wav" },
+  { "n": "10", "video": "clips_v5/raw_10.mp4", "audio": "audio_v5/seg_10.wav" }
+]

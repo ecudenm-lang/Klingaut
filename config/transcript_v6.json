@@ -1,0 +1,2556 @@
+{
+  "text": " ¿Vas a seguir ignorando tu diabetes? Soy tu glucómetro. Hace semanas que no mides tu azúcar. Me guardaste en el cajón. Ayer comiste sin medir. Y tu azúcar llegó a 340. Pegándose en tus venas como sarro. Y ni te enteraste. Te dices, ya me estoy cuidando. Pero amaneces destruido y sigues seco. No es la edad. Es el azúcar. ¿Sientes ese hormigueo? Ese zumbido que no para. ¿Sabes qué es? Son tus nervios apagándose. Pero tú sigues. Yo también tengo un límite. Te mostraba 200 y no te importaba. El azúcar se pegaba en tus riñones, tapándolos. Para ti solo eran números fríos. Me prendías y el número subía. Porque no había nada que recogiera ese azúcar. Hasta que encontré Biocentra. Canela de Ceilán, ¿de verdad? Sin levantarte al baño. Amaneces y no estás destruido. Tu familia te ve diferente. Y yo lo marco. Deja en paz tus riñones, se llama Biocentra. Canela de ceilán envuelta en M7 que ayuda a que el azúcar entre a tus células y baje en tu sangre. Sácame del cajón. Y consíguela haciendo clic abajo.",
+  "language": "es",
+  "words": [
+    {
+      "n": 0,
+      "text": "¿Vas",
+      "start": 0.03,
+      "end": 0.13
+    },
+    {
+      "n": 1,
+      "text": "a",
+      "start": 0.13,
+      "end": 0.21
+    },
+    {
+      "n": 2,
+      "text": "seguir",
+      "start": 0.21,
+      "end": 0.41
+    },
+    {
+      "n": 3,
+      "text": "ignorando",
+      "start": 0.41,
+      "end": 0.79
+    },
+    {
+      "n": 4,
+      "text": "tu",
+      "start": 0.79,
+      "end": 0.97
+    },
+    {
+      "n": 5,
+      "text": "diabetes?",
+      "start": 0.97,
+      "end": 1.53
+    },
+    {
+      "n": 6,
+      "text": "Soy",
+      "start": 1.83,
+      "end": 1.89
+    },
+    {
+      "n": 7,
+      "text": "tu",
+      "start": 1.89,
+      "end": 2.07
+    },
+    {
+      "n": 8,
+      "text": "glucómetro.",
+      "start": 2.07,
+      "end": 2.71
+    },
+    {
+      "n": 9,
+      "text": "Hace",
+      "start": 2.95,
+      "end": 3.05
+    },
+    {
+      "n": 10,
+      "text": "semanas",
+      "start": 3.05,
+      "end": 3.35
+    },
+    {
+      "n": 11,
+      "text": "que",
+      "start": 3.35,
+      "end": 3.61
+    },
+    {
+      "n": 12,
+      "text": "no",
+      "start": 3.61,
+      "end": 3.73
+    },
+    {
+      "n": 13,
+      "text": "mides",
+      "start": 3.73,
+      "end": 3.93
+    },
+    {
+      "n": 14,
+      "text": "tu",
+      "start": 3.93,
+      "end": 4.07
+    },
+    {
+      "n": 15,
+      "text": "azúcar.",
+      "start": 4.07,
+      "end": 4.65
+    },
+    {
+      "n": 16,
+      "text": "Me",
+      "start": 4.83,
+      "end": 5.03
+    },
+    {
+      "n": 17,
+      "text": "guardaste",
+      "start": 5.03,
+      "end": 5.41
+    },
+    {
+      "n": 18,
+      "text": "en",
+      "start": 5.41,
+      "end": 5.55
+    },
+    {
+      "n": 19,
+      "text": "el",
+      "start": 5.55,
+      "end": 5.63
+    },
+    {
+      "n": 20,
+      "text": "cajón.",
+      "start": 5.63,
+      "end": 6.05
+    },
+    {
+      "n": 21,
+      "text": "Ayer",
+      "start": 6.31,
+      "end": 6.57
+    },
+    {
+      "n": 22,
+      "text": "comiste",
+      "start": 6.57,
+      "end": 6.97
+    },
+    {
+      "n": 23,
+      "text": "sin",
+      "start": 6.97,
+      "end": 7.17
+    },
+    {
+      "n": 24,
+      "text": "medir.",
+      "start": 7.17,
+      "end": 7.55
+    },
+    {
+      "n": 25,
+      "text": "Y",
+      "start": 7.93,
+      "end": 8.01
+    },
+    {
+      "n": 26,
+      "text": "tu",
+      "start": 8.01,
+      "end": 8.09
+    },
+    {
+      "n": 27,
+      "text": "azúcar",
+      "start": 8.09,
+      "end": 8.37
+    },
+    {
+      "n": 28,
+      "text": "llegó",
+      "start": 8.37,
+      "end": 8.55
+    },
+    {
+      "n": 29,
+      "text": "a",
+      "start": 8.55,
+      "end": 8.73
+    },
+    {
+      "n": 30,
+      "text": "340.",
+      "start": 8.73,
+      "end": 9.75
+    },
+    {
+      "n": 31,
+      "text": "Pegándose",
+      "start": 10.07,
+      "end": 10.67
+    },
+    {
+      "n": 32,
+      "text": "en",
+      "start": 10.67,
+      "end": 10.81
+    },
+    {
+      "n": 33,
+      "text": "tus",
+      "start": 10.81,
+      "end": 10.93
+    },
+    {
+      "n": 34,
+      "text": "venas",
+      "start": 10.93,
+      "end": 11.29
+    },
+    {
+      "n": 35,
+      "text": "como",
+      "start": 11.29,
+      "end": 11.49
+    },
+    {
+      "n": 36,
+      "text": "sarro.",
+      "start": 11.49,
+      "end": 12.17
+    },
+    {
+      "n": 37,
+      "text": "Y",
+      "start": 12.63,
+      "end": 12.85
+    },
+    {
+      "n": 38,
+      "text": "ni",
+      "start": 12.85,
+      "end": 12.95
+    },
+    {
+      "n": 39,
+      "text": "te",
+      "start": 12.95,
+      "end": 13.05
+    },
+    {
+      "n": 40,
+      "text": "enteraste.",
+      "start": 13.05,
+      "end": 13.55
+    },
+    {
+      "n": 41,
+      "text": "Te",
+      "start": 13.99,
+      "end": 14.03
+    },
+    {
+      "n": 42,
+      "text": "dices,",
+      "start": 14.03,
+      "end": 14.45
+    },
+    {
+      "n": 43,
+      "text": "ya",
+      "start": 14.45,
+      "end": 14.87
+    },
+    {
+      "n": 44,
+      "text": "me",
+      "start": 14.87,
+      "end": 15.03
+    },
+    {
+      "n": 45,
+      "text": "estoy",
+      "start": 15.03,
+      "end": 15.23
+    },
+    {
+      "n": 46,
+      "text": "cuidando.",
+      "start": 15.23,
+      "end": 15.75
+    },
+    {
+      "n": 47,
+      "text": "Pero",
+      "start": 16.09,
+      "end": 16.27
+    },
+    {
+      "n": 48,
+      "text": "amaneces",
+      "start": 16.27,
+      "end": 16.81
+    },
+    {
+      "n": 49,
+      "text": "destruido",
+      "start": 16.81,
+      "end": 17.33
+    },
+    {
+      "n": 50,
+      "text": "y",
+      "start": 17.33,
+      "end": 17.43
+    },
+    {
+      "n": 51,
+      "text": "sigues",
+      "start": 17.43,
+      "end": 17.77
+    },
+    {
+      "n": 52,
+      "text": "seco.",
+      "start": 17.77,
+      "end": 18.13
+    },
+    {
+      "n": 53,
+      "text": "No",
+      "start": 18.57,
+      "end": 18.71
+    },
+    {
+      "n": 54,
+      "text": "es",
+      "start": 18.71,
+      "end": 18.91
+    },
+    {
+      "n": 55,
+      "text": "la",
+      "start": 18.91,
+      "end": 19.05
+    },
+    {
+      "n": 56,
+      "text": "edad.",
+      "start": 19.05,
+      "end": 19.39
+    },
+    {
+      "n": 57,
+      "text": "Es",
+      "start": 20.01,
+      "end": 20.07
+    },
+    {
+      "n": 58,
+      "text": "el",
+      "start": 20.07,
+      "end": 20.33
+    },
+    {
+      "n": 59,
+      "text": "azúcar.",
+      "start": 20.33,
+      "end": 20.99
+    },
+    {
+      "n": 60,
+      "text": "¿Sientes",
+      "start": 21.47,
+      "end": 21.93
+    },
+    {
+      "n": 61,
+      "text": "ese",
+      "start": 21.93,
+      "end": 22.21
+    },
+    {
+      "n": 62,
+      "text": "hormigueo?",
+      "start": 22.21,
+      "end": 22.79
+    },
+    {
+      "n": 63,
+      "text": "Ese",
+      "start": 23.21,
+      "end": 23.45
+    },
+    {
+      "n": 64,
+      "text": "zumbido",
+      "start": 23.45,
+      "end": 23.83
+    },
+    {
+      "n": 65,
+      "text": "que",
+      "start": 23.83,
+      "end": 23.97
+    },
+    {
+      "n": 66,
+      "text": "no",
+      "start": 23.97,
+      "end": 24.09
+    },
+    {
+      "n": 67,
+      "text": "para.",
+      "start": 24.09,
+      "end": 24.39
+    },
+    {
+      "n": 68,
+      "text": "¿Sabes",
+      "start": 24.73,
+      "end": 25.05
+    },
+    {
+      "n": 69,
+      "text": "qué",
+      "start": 25.05,
+      "end": 25.17
+    },
+    {
+      "n": 70,
+      "text": "es?",
+      "start": 25.17,
+      "end": 25.47
+    },
+    {
+      "n": 71,
+      "text": "Son",
+      "start": 25.63,
+      "end": 25.81
+    },
+    {
+      "n": 72,
+      "text": "tus",
+      "start": 25.81,
+      "end": 26.05
+    },
+    {
+      "n": 73,
+      "text": "nervios",
+      "start": 26.05,
+      "end": 26.47
+    },
+    {
+      "n": 74,
+      "text": "apagándose.",
+      "start": 26.47,
+      "end": 27.05
+    },
+    {
+      "n": 75,
+      "text": "Pero",
+      "start": 27.45,
+      "end": 27.69
+    },
+    {
+      "n": 76,
+      "text": "tú",
+      "start": 27.69,
+      "end": 27.81
+    },
+    {
+      "n": 77,
+      "text": "sigues.",
+      "start": 27.81,
+      "end": 28.21
+    },
+    {
+      "n": 78,
+      "text": "Yo",
+      "start": 28.67,
+      "end": 28.75
+    },
+    {
+      "n": 79,
+      "text": "también",
+      "start": 28.75,
+      "end": 28.93
+    },
+    {
+      "n": 80,
+      "text": "tengo",
+      "start": 28.93,
+      "end": 29.33
+    },
+    {
+      "n": 81,
+      "text": "un",
+      "start": 29.33,
+      "end": 29.53
+    },
+    {
+      "n": 82,
+      "text": "límite.",
+      "start": 29.53,
+      "end": 29.97
+    },
+    {
+      "n": 83,
+      "text": "Te",
+      "start": 30.25,
+      "end": 30.27
+    },
+    {
+      "n": 84,
+      "text": "mostraba",
+      "start": 30.27,
+      "end": 30.63
+    },
+    {
+      "n": 85,
+      "text": "200",
+      "start": 30.63,
+      "end": 30.87
+    },
+    {
+      "n": 86,
+      "text": "y",
+      "start": 30.87,
+      "end": 31.25
+    },
+    {
+      "n": 87,
+      "text": "no",
+      "start": 31.25,
+      "end": 31.37
+    },
+    {
+      "n": 88,
+      "text": "te",
+      "start": 31.37,
+      "end": 31.45
+    },
+    {
+      "n": 89,
+      "text": "importaba.",
+      "start": 31.45,
+      "end": 31.99
+    },
+    {
+      "n": 90,
+      "text": "El",
+      "start": 32.35,
+      "end": 32.43
+    },
+    {
+      "n": 91,
+      "text": "azúcar",
+      "start": 32.43,
+      "end": 32.77
+    },
+    {
+      "n": 92,
+      "text": "se",
+      "start": 32.77,
+      "end": 32.97
+    },
+    {
+      "n": 93,
+      "text": "pegaba",
+      "start": 32.97,
+      "end": 33.31
+    },
+    {
+      "n": 94,
+      "text": "en",
+      "start": 33.31,
+      "end": 33.47
+    },
+    {
+      "n": 95,
+      "text": "tus",
+      "start": 33.47,
+      "end": 33.55
+    },
+    {
+      "n": 96,
+      "text": "riñones,",
+      "start": 33.55,
+      "end": 34.09
+    },
+    {
+      "n": 97,
+      "text": "tapándolos.",
+      "start": 34.09,
+      "end": 34.87
+    },
+    {
+      "n": 98,
+      "text": "Para",
+      "start": 35.15,
+      "end": 35.35
+    },
+    {
+      "n": 99,
+      "text": "ti",
+      "start": 35.35,
+      "end": 35.53
+    },
+    {
+      "n": 100,
+      "text": "solo",
+      "start": 35.53,
+      "end": 35.71
+    },
+    {
+      "n": 101,
+      "text": "eran",
+      "start": 35.71,
+      "end": 35.97
+    },
+    {
+      "n": 102,
+      "text": "números",
+      "start": 35.97,
+      "end": 36.23
+    },
+    {
+      "n": 103,
+      "text": "fríos.",
+      "start": 36.23,
+      "end": 36.87
+    },
+    {
+      "n": 104,
+      "text": "Me",
+      "start": 37.25,
+      "end": 37.29
+    },
+    {
+      "n": 105,
+      "text": "prendías",
+      "start": 37.29,
+      "end": 37.79
+    },
+    {
+      "n": 106,
+      "text": "y",
+      "start": 37.79,
+      "end": 37.97
+    },
+    {
+      "n": 107,
+      "text": "el",
+      "start": 37.97,
+      "end": 38.11
+    },
+    {
+      "n": 108,
+      "text": "número",
+      "start": 38.11,
+      "end": 38.39
+    },
+    {
+      "n": 109,
+      "text": "subía.",
+      "start": 38.39,
+      "end": 38.95
+    },
+    {
+      "n": 110,
+      "text": "Porque",
+      "start": 39.45,
+      "end": 39.65
+    },
+    {
+      "n": 111,
+      "text": "no",
+      "start": 39.65,
+      "end": 39.81
+    },
+    {
+      "n": 112,
+      "text": "había",
+      "start": 39.81,
+      "end": 39.95
+    },
+    {
+      "n": 113,
+      "text": "nada",
+      "start": 39.95,
+      "end": 40.27
+    },
+    {
+      "n": 114,
+      "text": "que",
+      "start": 40.27,
+      "end": 40.55
+    },
+    {
+      "n": 115,
+      "text": "recogiera",
+      "start": 40.55,
+      "end": 40.93
+    },
+    {
+      "n": 116,
+      "text": "ese",
+      "start": 40.93,
+      "end": 41.15
+    },
+    {
+      "n": 117,
+      "text": "azúcar.",
+      "start": 41.15,
+      "end": 41.59
+    },
+    {
+      "n": 118,
+      "text": "Hasta",
+      "start": 41.75,
+      "end": 41.91
+    },
+    {
+      "n": 119,
+      "text": "que",
+      "start": 41.91,
+      "end": 42.09
+    },
+    {
+      "n": 120,
+      "text": "encontré",
+      "start": 42.09,
+      "end": 42.53
+    },
+    {
+      "n": 121,
+      "text": "Biocentra.",
+      "start": 42.53,
+      "end": 43.37
+    },
+    {
+      "n": 122,
+      "text": "Canela",
+      "start": 43.59,
+      "end": 43.95
+    },
+    {
+      "n": 123,
+      "text": "de",
+      "start": 43.95,
+      "end": 44.07
+    },
+    {
+      "n": 124,
+      "text": "Ceilán,",
+      "start": 44.07,
+      "end": 44.43
+    },
+    {
+      "n": 125,
+      "text": "¿de",
+      "start": 44.43,
+      "end": 44.53
+    },
+    {
+      "n": 126,
+      "text": "verdad?",
+      "start": 44.53,
+      "end": 44.91
+    },
+    {
+      "n": 127,
+      "text": "Sin",
+      "start": 45.29,
+      "end": 45.37
+    },
+    {
+      "n": 128,
+      "text": "levantarte",
+      "start": 45.37,
+      "end": 45.91
+    },
+    {
+      "n": 129,
+      "text": "al",
+      "start": 45.91,
+      "end": 46.05
+    },
+    {
+      "n": 130,
+      "text": "baño.",
+      "start": 46.05,
+      "end": 46.45
+    },
+    {
+      "n": 131,
+      "text": "Amaneces",
+      "start": 46.71,
+      "end": 47.21
+    },
+    {
+      "n": 132,
+      "text": "y",
+      "start": 47.21,
+      "end": 47.31
+    },
+    {
+      "n": 133,
+      "text": "no",
+      "start": 47.31,
+      "end": 47.43
+    },
+    {
+      "n": 134,
+      "text": "estás",
+      "start": 47.43,
+      "end": 47.61
+    },
+    {
+      "n": 135,
+      "text": "destruido.",
+      "start": 47.61,
+      "end": 48.37
+    },
+    {
+      "n": 136,
+      "text": "Tu",
+      "start": 48.55,
+      "end": 48.61
+    },
+    {
+      "n": 137,
+      "text": "familia",
+      "start": 48.61,
+      "end": 48.91
+    },
+    {
+      "n": 138,
+      "text": "te",
+      "start": 48.91,
+      "end": 49.09
+    },
+    {
+      "n": 139,
+      "text": "ve",
+      "start": 49.09,
+      "end": 49.21
+    },
+    {
+      "n": 140,
+      "text": "diferente.",
+      "start": 49.21,
+      "end": 49.71
+    },
+    {
+      "n": 141,
+      "text": "Y",
+      "start": 50.03,
+      "end": 50.15
+    },
+    {
+      "n": 142,
+      "text": "yo",
+      "start": 50.15,
+      "end": 50.29
+    },
+    {
+      "n": 143,
+      "text": "lo",
+      "start": 50.29,
+      "end": 50.37
+    },
+    {
+      "n": 144,
+      "text": "marco.",
+      "start": 50.37,
+      "end": 50.71
+    },
+    {
+      "n": 145,
+      "text": "Deja",
+      "start": 51.21,
+      "end": 51.43
+    },
+    {
+      "n": 146,
+      "text": "en",
+      "start": 51.43,
+      "end": 51.55
+    },
+    {
+      "n": 147,
+      "text": "paz",
+      "start": 51.55,
+      "end": 51.75
+    },
+    {
+      "n": 148,
+      "text": "tus",
+      "start": 51.75,
+      "end": 51.97
+    },
+    {
+      "n": 149,
+      "text": "riñones,",
+      "start": 51.97,
+      "end": 52.55
+    },
+    {
+      "n": 150,
+      "text": "se",
+      "start": 52.55,
+      "end": 52.81
+    },
+    {
+      "n": 151,
+      "text": "llama",
+      "start": 52.81,
+      "end": 52.97
+    },
+    {
+      "n": 152,
+      "text": "Biocentra.",
+      "start": 52.97,
+      "end": 53.65
+    },
+    {
+      "n": 153,
+      "text": "Canela",
+      "start": 54.03,
+      "end": 54.37
+    },
+    {
+      "n": 154,
+      "text": "de",
+      "start": 54.37,
+      "end": 54.49
+    },
+    {
+      "n": 155,
+      "text": "ceilán",
+      "start": 54.49,
+      "end": 54.83
+    },
+    {
+      "n": 156,
+      "text": "envuelta",
+      "start": 54.83,
+      "end": 55.27
+    },
+    {
+      "n": 157,
+      "text": "en",
+      "start": 55.27,
+      "end": 55.37
+    },
+    {
+      "n": 158,
+      "text": "M7",
+      "start": 55.37,
+      "end": 55.75
+    },
+    {
+      "n": 159,
+      "text": "que",
+      "start": 55.75,
+      "end": 56.33
+    },
+    {
+      "n": 160,
+      "text": "ayuda",
+      "start": 56.33,
+      "end": 56.63
+    },
+    {
+      "n": 161,
+      "text": "a",
+      "start": 56.63,
+      "end": 56.91
+    },
+    {
+      "n": 162,
+      "text": "que",
+      "start": 56.91,
+      "end": 57.07
+    },
+    {
+      "n": 163,
+      "text": "el",
+      "start": 57.07,
+      "end": 57.19
+    },
+    {
+      "n": 164,
+      "text": "azúcar",
+      "start": 57.19,
+      "end": 57.53
+    },
+    {
+      "n": 165,
+      "text": "entre",
+      "start": 57.53,
+      "end": 57.81
+    },
+    {
+      "n": 166,
+      "text": "a",
+      "start": 57.81,
+      "end": 57.95
+    },
+    {
+      "n": 167,
+      "text": "tus",
+      "start": 57.95,
+      "end": 58.09
+    },
+    {
+      "n": 168,
+      "text": "células",
+      "start": 58.09,
+      "end": 58.43
+    },
+    {
+      "n": 169,
+      "text": "y",
+      "start": 58.43,
+      "end": 58.67
+    },
+    {
+      "n": 170,
+      "text": "baje",
+      "start": 58.67,
+      "end": 58.93
+    },
+    {
+      "n": 171,
+      "text": "en",
+      "start": 58.93,
+      "end": 59.07
+    },
+    {
+      "n": 172,
+      "text": "tu",
+      "start": 59.07,
+      "end": 59.15
+    },
+    {
+      "n": 173,
+      "text": "sangre.",
+      "start": 59.15,
+      "end": 59.85
+    },
+    {
+      "n": 174,
+      "text": "Sácame",
+      "start": 59.87,
+      "end": 60.19
+    },
+    {
+      "n": 175,
+      "text": "del",
+      "start": 60.19,
+      "end": 60.39
+    },
+    {
+      "n": 176,
+      "text": "cajón.",
+      "start": 60.39,
+      "end": 60.81
+    },
+    {
+      "n": 177,
+      "text": "Y",
+      "start": 61.33,
+      "end": 61.35
+    },
+    {
+      "n": 178,
+      "text": "consíguela",
+      "start": 61.35,
+      "end": 61.87
+    },
+    {
+      "n": 179,
+      "text": "haciendo",
+      "start": 61.87,
+      "end": 62.15
+    },
+    {
+      "n": 180,
+      "text": "clic",
+      "start": 62.15,
+      "end": 62.43
+    },
+    {
+      "n": 181,
+      "text": "abajo.",
+      "start": 62.43,
+      "end": 62.75
+    }
+  ],
+  "chunks": [
+    {
+      "timestamp": [
+        0.03,
+        0.13
+      ],
+      "text": " ¿Vas",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.13,
+        0.21
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.21,
+        0.41
+      ],
+      "text": " seguir",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.41,
+        0.79
+      ],
+      "text": " ignorando",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.79,
+        0.97
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.97,
+        1.53
+      ],
+      "text": " diabetes?",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        1.83,
+        1.89
+      ],
+      "text": " Soy",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        1.89,
+        2.07
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        2.07,
+        2.71
+      ],
+      "text": " glucómetro.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        2.95,
+        3.05
+      ],
+      "text": " Hace",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.05,
+        3.35
+      ],
+      "text": " semanas",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.35,
+        3.61
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.61,
+        3.73
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.73,
+        3.93
+      ],
+      "text": " mides",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.93,
+        4.07
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        4.07,
+        4.65
+      ],
+      "text": " azúcar.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        4.83,
+        5.03
+      ],
+      "text": " Me",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.03,
+        5.41
+      ],
+      "text": " guardaste",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.41,
+        5.55
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.55,
+        5.63
+      ],
+      "text": " el",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.63,
+        6.05
+      ],
+      "text": " cajón.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        6.31,
+        6.57
+      ],
+      "text": " Ayer",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        6.57,
+        6.97
+      ],
+      "text": " comiste",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        6.97,
+        7.17
+      ],
+      "text": " sin",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        7.17,
+        7.55
+      ],
+      "text": " medir.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        7.93,
+        8.01
+      ],
+      "text": " Y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.01,
+        8.09
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.09,
+        8.37
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.37,
+        8.55
+      ],
+      "text": " llegó",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.55,
+        8.73
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.73,
+        9.75
+      ],
+      "text": " 340.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.07,
+        10.67
+      ],
+      "text": " Pegándose",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.67,
+        10.81
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.81,
+        10.93
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.93,
+        11.29
+      ],
+      "text": " venas",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        11.29,
+        11.49
+      ],
+      "text": " como",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        11.49,
+        12.17
+      ],
+      "text": " sarro.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.63,
+        12.85
+      ],
+      "text": " Y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.85,
+        12.95
+      ],
+      "text": " ni",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.95,
+        13.05
+      ],
+      "text": " te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        13.05,
+        13.55
+      ],
+      "text": " enteraste.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        13.99,
+        14.03
+      ],
+      "text": " Te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        14.03,
+        14.45
+      ],
+      "text": " dices,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        14.45,
+        14.87
+      ],
+      "text": " ya",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        14.87,
+        15.03
+      ],
+      "text": " me",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        15.03,
+        15.23
+      ],
+      "text": " estoy",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        15.23,
+        15.75
+      ],
+      "text": " cuidando.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        16.09,
+        16.27
+      ],
+      "text": " Pero",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        16.27,
+        16.81
+      ],
+      "text": " amaneces",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        16.81,
+        17.33
+      ],
+      "text": " destruido",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        17.33,
+        17.43
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        17.43,
+        17.77
+      ],
+      "text": " sigues",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        17.77,
+        18.13
+      ],
+      "text": " seco.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        18.57,
+        18.71
+      ],
+      "text": " No",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        18.71,
+        18.91
+      ],
+      "text": " es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        18.91,
+        19.05
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        19.05,
+        19.39
+      ],
+      "text": " edad.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        20.01,
+        20.07
+      ],
+      "text": " Es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        20.07,
+        20.33
+      ],
+      "text": " el",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        20.33,
+        20.99
+      ],
+      "text": " azúcar.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        21.47,
+        21.93
+      ],
+      "text": " ¿Sientes",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        21.93,
+        22.21
+      ],
+      "text": " ese",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        22.21,
+        22.79
+      ],
+      "text": " hormigueo?",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.21,
+        23.45
+      ],
+      "text": " Ese",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.45,
+        23.83
+      ],
+      "text": " zumbido",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.83,
+        23.97
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.97,
+        24.09
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        24.09,
+        24.39
+      ],
+      "text": " para.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        24.73,
+        25.05
+      ],
+      "text": " ¿Sabes",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        25.05,
+        25.17
+      ],
+      "text": " qué",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        25.17,
+        25.47
+      ],
+      "text": " es?",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        25.63,
+        25.81
+      ],
+      "text": " Son",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        25.81,
+        26.05
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        26.05,
+        26.47
+      ],
+      "text": " nervios",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        26.47,
+        27.05
+      ],
+      "text": " apagándose.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        27.45,
+        27.69
+      ],
+      "text": " Pero",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        27.69,
+        27.81
+      ],
+      "text": " tú",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        27.81,
+        28.21
+      ],
+      "text": " sigues.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        28.67,
+        28.75
+      ],
+      "text": " Yo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        28.75,
+        28.93
+      ],
+      "text": " también",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        28.93,
+        29.33
+      ],
+      "text": " tengo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        29.33,
+        29.53
+      ],
+      "text": " un",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        29.53,
+        29.97
+      ],
+      "text": " límite.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.25,
+        30.27
+      ],
+      "text": " Te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.27,
+        30.63
+      ],
+      "text": " mostraba",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.63,
+        30.87
+      ],
+      "text": " 200",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.87,
+        31.25
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        31.25,
+        31.37
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        31.37,
+        31.45
+      ],
+      "text": " te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        31.45,
+        31.99
+      ],
+      "text": " importaba.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.35,
+        32.43
+      ],
+      "text": " El",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.43,
+        32.77
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.77,
+        32.97
+      ],
+      "text": " se",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.97,
+        33.31
+      ],
+      "text": " pegaba",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.31,
+        33.47
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.47,
+        33.55
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.55,
+        34.09
+      ],
+      "text": " riñones,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        34.09,
+        34.87
+      ],
+      "text": " tapándolos.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.15,
+        35.35
+      ],
+      "text": " Para",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.35,
+        35.53
+      ],
+      "text": " ti",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.53,
+        35.71
+      ],
+      "text": " solo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.71,
+        35.97
+      ],
+      "text": " eran",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.97,
+        36.23
+      ],
+      "text": " números",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        36.23,
+        36.87
+      ],
+      "text": " fríos.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.25,
+        37.29
+      ],
+      "text": " Me",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.29,
+        37.79
+      ],
+      "text": " prendías",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.79,
+        37.97
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.97,
+        38.11
+      ],
+      "text": " el",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        38.11,
+        38.39
+      ],
+      "text": " número",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        38.39,
+        38.95
+      ],
+      "text": " subía.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.45,
+        39.65
+      ],
+      "text": " Porque",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.65,
+        39.81
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.81,
+        39.95
+      ],
+      "text": " había",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.95,
+        40.27
+      ],
+      "text": " nada",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.27,
+        40.55
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.55,
+        40.93
+      ],
+      "text": " recogiera",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.93,
+        41.15
+      ],
+      "text": " ese",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.15,
+        41.59
+      ],
+      "text": " azúcar.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.75,
+        41.91
+      ],
+      "text": " Hasta",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.91,
+        42.09
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        42.09,
+        42.53
+      ],
+      "text": " encontré",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        42.53,
+        43.37
+      ],
+      "text": " Biocentra.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        43.59,
+        43.95
+      ],
+      "text": " Canela",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        43.95,
+        44.07
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.07,
+        44.43
+      ],
+      "text": " Ceilán,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.43,
+        44.53
+      ],
+      "text": " ¿de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.53,
+        44.91
+      ],
+      "text": " verdad?",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        45.29,
+        45.37
+      ],
+      "text": " Sin",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        45.37,
+        45.91
+      ],
+      "text": " levantarte",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        45.91,
+        46.05
+      ],
+      "text": " al",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        46.05,
+        46.45
+      ],
+      "text": " baño.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        46.71,
+        47.21
+      ],
+      "text": " Amaneces",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.21,
+        47.31
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.31,
+        47.43
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.43,
+        47.61
+      ],
+      "text": " estás",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.61,
+        48.37
+      ],
+      "text": " destruido.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        48.55,
+        48.61
+      ],
+      "text": " Tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        48.61,
+        48.91
+      ],
+      "text": " familia",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        48.91,
+        49.09
+      ],
+      "text": " te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        49.09,
+        49.21
+      ],
+      "text": " ve",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        49.21,
+        49.71
+      ],
+      "text": " diferente.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.03,
+        50.15
+      ],
+      "text": " Y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.15,
+        50.29
+      ],
+      "text": " yo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.29,
+        50.37
+      ],
+      "text": " lo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.37,
+        50.71
+      ],
+      "text": " marco.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        51.21,
+        51.43
+      ],
+      "text": " Deja",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        51.43,
+        51.55
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        51.55,
+        51.75
+      ],
+      "text": " paz",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        51.75,
+        51.97
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        51.97,
+        52.55
+      ],
+      "text": " riñones,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.55,
+        52.81
+      ],
+      "text": " se",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.81,
+        52.97
+      ],
+      "text": " llama",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.97,
+        53.65
+      ],
+      "text": " Biocentra.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        54.03,
+        54.37
+      ],
+      "text": " Canela",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        54.37,
+        54.49
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        54.49,
+        54.83
+      ],
+      "text": " ceilán",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        54.83,
+        55.27
+      ],
+      "text": " envuelta",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        55.27,
+        55.37
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        55.37,
+        55.75
+      ],
+      "text": " M7",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        55.75,
+        56.33
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        56.33,
+        56.63
+      ],
+      "text": " ayuda",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        56.63,
+        56.91
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        56.91,
+        57.07
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.07,
+        57.19
+      ],
+      "text": " el",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.19,
+        57.53
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.53,
+        57.81
+      ],
+      "text": " entre",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.81,
+        57.95
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.95,
+        58.09
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        58.09,
+        58.43
+      ],
+      "text": " células",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        58.43,
+        58.67
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        58.67,
+        58.93
+      ],
+      "text": " baje",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        58.93,
+        59.07
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        59.07,
+        59.15
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        59.15,
+        59.85
+      ],
+      "text": " sangre.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        59.87,
+        60.19
+      ],
+      "text": " Sácame",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        60.19,
+        60.39
+      ],
+      "text": " del",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        60.39,
+        60.81
+      ],
+      "text": " cajón.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        61.33,
+        61.35
+      ],
+      "text": " Y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        61.35,
+        61.87
+      ],
+      "text": " consíguela",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        61.87,
+        62.15
+      ],
+      "text": " haciendo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        62.15,
+        62.43
+      ],
+      "text": " clic",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        62.43,
+        62.75
+      ],
+      "text": " abajo.",
+      "speaker": null
+    }
+  ]
+}

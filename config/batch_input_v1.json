@@ -1,0 +1,68 @@
+[
+  {
+    "n": "01",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png",
+    "prompt": "The reclined man stirs awake, his worried eyes opening, and slowly turns his head toward the glowing glucose meter on the foreground nightstand. Camera: slow push-in along the bed toward his face. negative_prompt: spinning, orbiting, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry, talking mouth closeup",
+    "duration": 7
+  },
+  {
+    "n": "02",
+    "image_url": "https://v3b.fal.media/files/b/0a9d621a/TgvWZ9ji2iClb7sxVM-hO_igN2UWJV.png",
+    "prompt": "The red-orange glow in the abdomen pulses and intensifies as the liver overproduces sugar. Camera: slow descend toward the glowing abdomen of the figure lying in bed. negative_prompt: standing, upright, floating in void, no bed, UI text, labels, overlay text, watermark, logo, gore, blood splatter, deformed, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "03",
+    "image_url": "https://v3b.fal.media/files/b/0a9d6214/XJ5ttUjmdXAOv3t2CW--7_6AffLJTm.png",
+    "prompt": "The hot red glow streams down the legs into the feet, burning brighter, the figure lying still in bed. Camera: slow push-in along the bed toward the glowing feet. negative_prompt: standing, upright, floating in void, no bed, gore, blood splatter, deformed feet, extra toes, text, watermark, logo, blurry, camera spinning",
+    "duration": 6
+  },
+  {
+    "n": "04",
+    "image_url": "https://v3b.fal.media/files/b/0a9d620f/xg9FMPujRCy_dGKZdroBP_CTxJAiKW.png",
+    "prompt": "White-blue sparks crackle across the foot soles, flaring red-hot, while one area dims to cold grey going numb; the body lies still on the bed behind. Camera: slow push-in toward the soles. negative_prompt: standing, upright, floating in void, no bed, gore, blood splatter, deformed feet, extra toes, text, watermark, logo, blurry, camera spinning",
+    "duration": 6
+  },
+  {
+    "n": "05",
+    "image_url": "https://v3b.fal.media/files/b/0a9d620f/Pgy3BRNtiErHXVK3Ovvt6_y6UDMMQy.png",
+    "prompt": "Pale steam rises from the abdomen and the red glow spreads down into the kidneys, the figure lying still in bed. Camera: slow crane down the torso toward the pelvis. negative_prompt: standing, upright, floating in void, no bed, gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": 9
+  },
+  {
+    "n": "06",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61b4/kFZi_XOY8nUFS5tieXpjS_KKUNBnP1.png",
+    "prompt": "The figure pushes up and sits hunched on the edge of the bed, feet glowing red on the floor. Camera: slow push-in from the foreground nightstand to the hunched figure. negative_prompt: bathroom, tiles, gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "07",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61b4/hgbmIrjU2-L81EAGt31AY_IogHMziH.png",
+    "prompt": "The figure lifts the glucose meter showing red '250', the glow on its ribcage, intestines pulsing red below. Camera: slow push-in toward the meter and hands. negative_prompt: gore, blood splatter, deformed hands, extra fingers, text artifacts, watermark, logo, blurry, camera spinning",
+    "duration": 10
+  },
+  {
+    "n": "08",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61b4/KWFRKEByLAOz4WRDG9DDE_15jfJESQ.png",
+    "prompt": "The figure lifts a forkful of salad to its mouth and chews, yet the red glow in its liver and abdomen does not fade. Camera: slow dolly-in three-quarter toward the torso. negative_prompt: gore, blood splatter, deformed hands, extra fingers, text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "09",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61b4/dnni6ZU-tt2tp2xiVQua-_Q7Wc0rOy.png",
+    "prompt": "A warm golden light spreads through the figure's torso, the red glow giving way to gold as the room warms. Camera: slow push-in toward the warming torso. negative_prompt: gore, blood splatter, text, watermark, logo, blurry, camera spinning",
+    "duration": 9
+  },
+  {
+    "n": "10",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61b4/Bn22cVyuDOp5fP5RbWx5H_dqy2rmaq.png",
+    "prompt": "The figure relaxes, relieved, as its organs settle into a calm steady golden glow and warm light fills the room. Camera: slow gentle push-in toward the healed figure. negative_prompt: red glow, gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": 6
+  },
+  {
+    "n": "11",
+    "image_url": "https://v3b.fal.media/files/b/0a9d61b9/mwKbtPYuWgcxB2yv_pEdm_8hibNZ8f.png",
+    "prompt": "The pouch mascot bounces cheerfully on the nightstand and waves its little arms while cinnamon sticks and golden droplets orbit around it and warm golden sparkles drift up; its smiling face stays clearly visible. Camera: dynamic heroic push-in toward the smiling pouch, lower third kept clear. negative_prompt: deformed label, distorted text, creepy face, hidden face, extra limbs, duplicated pouch, on the bed, watermark, blurry, camera spinning",
+    "duration": 10
+  }
+]

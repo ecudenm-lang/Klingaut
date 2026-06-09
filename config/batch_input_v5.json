@@ -1,0 +1,74 @@
+[
+  {
+    "n": "01",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png",
+    "prompt": "The guilty liver character fidgets nervously on the interrogation chair, sweating, its eyes darting and little hands raising in a guilty shrug, the faucet dripping beside it. Camera: slow push-in toward the nervous liver. negative_prompt: realistic organ, gore, deformed, extra limbs, text, watermark, logo, blurry, camera spinning",
+    "duration": 7
+  },
+  {
+    "n": "02",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f8/OMvnYHNP4asHAxso_V7kC_T6BALYVI.png",
+    "prompt": "The liver's worried eyes well up and a sweat drop rolls down as it looks at the viewer with a guilty, sorrowful expression. Camera: slow push-in to its face. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": 4
+  },
+  {
+    "n": "03",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/iJqgB8l70UTwB1GNnWa-B_KfQNYoDU.png",
+    "prompt": "The liver presses a little hand to its chest and lowers its eyes in a heavy confession, then looks up at the viewer. Camera: slow push-in toward the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "04",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/1CHJRwcbsVIqYuGRT6BN4_0J4rVCPO.png",
+    "prompt": "The liver gestures down at the three EVIDENCE cards on the floor, shrugging as if none of them stop it. Camera: slow push-in past the cards to the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "05",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f8/R9Gll36IRQWXwcWtuqFbS_BzwgF0WE.png",
+    "prompt": "The gears and pistons inside the liver's open belly turn relentlessly, pumping out little white sugar cubes that pile up below. Camera: slow push-in toward the churning gears. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "06",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/EvbduGnkC5-qApGabZonu_HA8u48PN.png",
+    "prompt": "The broken INSULIN gauge sparks and flashes red while the faucet keeps leaking sugar; the liver shrugs helplessly. Camera: slow pan from the broken gauge to the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "07",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/38IHndQ3SEBA7TzSM3HZX_w2Z7MAyk.png",
+    "prompt": "The liver glances back guiltily at the three glowing damage diagrams (clogged vessel, nerve, eye) on the screen behind it. Camera: slow push-in past the liver to the screen. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": 8
+  },
+  {
+    "n": "08",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f8/O22EUhCnSfWkH34caoTGW_6HqaiFWJ.png",
+    "prompt": "The monitors behind flicker showing the sleeping diabetic and the '240' reading while the liver lowers its head in guilt. Camera: slow push-in toward the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": 6
+  },
+  {
+    "n": "09",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f5/zxO4K88HzgSu4rtsV40mJ_pkS07rYp.png",
+    "prompt": "Top: the man keeps mopping while the faucet gushes and the water never clears. Bottom: the exhausted liver slumps deeper into the armchair. Camera: gentle slow push-in across both panels. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": 6
+  },
+  {
+    "n": "10",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/a479qAu55oeYXqP3MUIWU_GverAYSv.png",
+    "prompt": "A warm golden light breaks into the dark room; the liver looks up hopeful as the glowing Biozentra pouch appears before it. Camera: slow push-in toward the glowing pouch. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, deformed label, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": 6
+  },
+  {
+    "n": "11",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/SXL59E4N7m_7tkngtBcbC_1ml0iM8E.png",
+    "prompt": "The warm cinnamon essence flows to the cells, their little doors open, and the golden sugar particles stream gently inside. Camera: slow push-in toward an opening cell door. negative_prompt: realistic organ, gore, deformed, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": 7
+  },
+  {
+    "n": "12",
+    "image_url": "https://v3b.fal.media/files/b/0a9d62f4/SAyfg3-DJTXyjM7R9BoTo_ZkPlnRXY.png",
+    "prompt": "The Biozentra pouch mascot beams and waves its little arms as cinnamon and golden droplets orbit and sparkles rise; the happy liver gives a thumbs up from the armchair behind. Camera: slow heroic push-in toward the pouch. negative_prompt: deformed label, distorted text, creepy face, extra limbs, duplicated pouch, realistic organ, gore, watermark, blurry, camera spinning",
+    "duration": 7
+  }
+]

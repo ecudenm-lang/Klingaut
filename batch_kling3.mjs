@@ -44,7 +44,7 @@ if (!FAL_KEY) { console.error('\n❌  FAL_KEY no encontrado.\n'); process.exit(1
 fal.config({ credentials: FAL_KEY });
 
 const inputFile = process.argv[2] ?? "batch_input.json";
-const clipsDirName = process.argv[3] ?? "clips_v3";
+const clipsDirName = process.argv[3] ?? "clips/v3";
 const inputPath = resolve(process.cwd(), inputFile);
 if (!existsSync(inputPath)) { console.error(`\n❌  No se encontró: ${inputPath}\n`); process.exit(1); }
 

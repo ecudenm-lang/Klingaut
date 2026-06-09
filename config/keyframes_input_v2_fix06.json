@@ -1,0 +1,9 @@
+[
+  {
+    "n": "06",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, friendly flat stylized look, NOT a medical render, NO realistic anatomy, NO x-ray body. A single cute cartoon LIVER character (glossy reddish-brown, big soft rounded shape, small simple face, tiny arms) sitting at night in a dark blue stylized room; it sleepily leaks little glowing golden cartoon sugar cubes from a tiny tap, which pile up around it; a small cartoon white 'METFORMINA' pill with a worried face bounces uselessly OUTSIDE a doorway, never reaching the liver. Deep night-blue mood with warm golden sugar glow. Vertical 9:16.",
+    "anim_prompt": "The cartoon liver sleepily drips glowing golden sugar cubes that pile up at night, while the little metformina pill bounces against the doorway outside, unable to reach it. Camera: slow push-in to the liver. negative_prompt: realistic organ, anatomical, x-ray, medical render, gore, creepy, deformed, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "n": "01",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, cinematic dark interrogation room, a single dramatic overhead hanging light bulb, moody glossy cinematic render. A cute but guilty-looking cartoon LIVER character — a dark reddish-brown glossy liver organ with a small attached gallbladder, big expressive worried eyes, sweating drops, a nervous frowning mouth, and tiny thin arms and legs — sits hunched on a cold metal interrogation chair, its little hands raised slightly in a guilty 'it wasn't me' gesture. On the dark concrete wall behind: a digital glucose meter glowing red '240'. To the left: an old rusty dripping faucet valve on a pipe. On the floor in the foreground: a plate of green salad, a bottle of pills with scattered white pills, and a pair of worn sneakers. Dark grey concrete walls with hanging cables. Vertical 9:16.",
+    "anim_prompt": "The guilty liver character fidgets nervously on the interrogation chair, sweating, its eyes darting and little hands raising in a guilty shrug, the faucet dripping beside it. Camera: slow push-in toward the nervous liver. negative_prompt: realistic organ, gore, deformed, extra limbs, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  }
+]

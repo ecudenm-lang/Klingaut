@@ -1,0 +1,93 @@
+[
+  {
+    "n": "01",
+    "kf_prompt": "3D Pixar style character, warm cinematic lighting, soft amber home tones. A tired Hispanic middle-aged man with gray-streaked hair and short beard, wearing a blue t-shirt, slumped asleep in a plaid armchair in a cozy living room, mouth slightly open, one arm hanging over the armrest. Beside him a worried Hispanic woman in her late 30s with dark curly hair in a loose bun and a gray hoodie rests a gentle hand on his shoulder, looking at him with concern. Warm lamp on a side table, family photos on the wall. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The woman gently shakes the man's shoulder; he stirs without waking. Her free hand presses to her chest in worry. Slow push-in toward her concerned face. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, logo, blurry",
+    "duration": "5"
+  },
+  {
+    "n": "02",
+    "kf_prompt": "3D Pixar style character, warm cinematic lighting, soft amber morning bedroom. A Hispanic woman in her late 30s with dark curly hair in a loose bun and a gray hoodie stands beside a wooden nightstand. On the nightstand: a glucose meter, a glass of water, a bottle of Metformin pills, and THIS exact BioZentra Ceylon Cinnamon pouch (from the reference image, keep the label and design intact) standing upright. She holds the pouch in both hands looking at it with determined hopeful eyes. Warm morning sunlight from a window. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9c0fdf/AmFYPB9ac_go6E5duy9B8_1779998391511.png"],
+    "anim_prompt": "The woman places the BioZentra pouch upright on the nightstand next to the Metformin bottle, then steps back with a small determined nod. Slow push-in toward the pouch on the nightstand. The pouch label stays sharp and intact. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text artifacts, watermark, blurry",
+    "duration": "5"
+  },
+  {
+    "n": "03",
+    "kf_prompt": "3D Pixar style character, warm cinematic lighting, bright morning bedroom. A Hispanic middle-aged man with gray-streaked hair and short beard, wearing navy pajamas, sits on the edge of the bed holding two amber softgel capsules in his open palm, about to take them with a glass of water, casual unbothered expression. On the nightstand behind him: THIS exact BioZentra Ceylon Cinnamon pouch (from the reference image, keep the label intact) and a Metformin bottle. In the soft background his wife watches with a small smile. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9c0fdf/AmFYPB9ac_go6E5duy9B8_1779998391511.png"],
+    "anim_prompt": "The man tips the two amber capsules into his mouth and drinks from the glass of water, then stands up casually. In the background the wife gives a subtle satisfied nod. Slow push-in toward his hand and the capsules. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "kf_prompt": "3D Pixar style character, dark cinematic lighting, deep blue-navy night bedroom. A Hispanic woman in her late 30s with dark hair loose and a dark t-shirt lies awake in bed at 2 AM, eyes open and anxious, staring upward. Beside her the gray-haired bearded husband sleeps deeply. A red digital clock on the nightstand reads 2:00 AM, its glow the only light. She holds up two fingers, counting silently. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The woman raises two fingers slowly, counting bathroom trips in her mind, her expression shifting from worried to quietly hopeful, while the husband sleeps undisturbed beside her. Slow push-in toward her face lit by the red clock glow. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_prompt": "3D Pixar style character, dark cinematic lighting, deep blue night bedroom. Close medium shot of a Hispanic woman in her late 30s with dark hair loose, lying on her pillow, eyes open and reflective with a faint knowing look. Soft red clock glow on her face, her sleeping bearded husband blurred behind her. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The woman blinks slowly and a faint understanding settles on her face; she glances toward her sleeping husband, then back. Very slow push-in toward her eyes. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "5"
+  },
+  {
+    "n": "06",
+    "kf_prompt": "3D Pixar style character, warm bright morning lighting, golden sunlight through curtains. A Hispanic middle-aged man with gray-streaked hair and beard, light blue t-shirt, sits up on the bed edge holding a glucose meter showing '95' on its screen, his other arm raised in a surprised joyful fist-pump. His wife, dark hair in a bun, props up on one elbow watching with delighted eyes. Wooden headboard. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The husband raises the glucose meter showing 95 triumphantly while the wife props herself up to look with wide delighted eyes; he points at the number excitedly. Slow push-in toward the meter. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_prompt": "3D Pixar style character, warm golden morning lighting. A Hispanic couple sits together on a bed facing each other — the wife with dark hair in a bun and a gray t-shirt, the husband with gray-streaked hair and beard and a blue t-shirt — their hands intertwined resting between them, both with tender emotional smiles. Soft golden sunlight from a window behind them. Plano medio close on the joined hands and faces. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The husband gently squeezes the wife's hands with both of his; she squeezes back and tilts her head toward him with a warm smile. Slow push-in toward their joined hands bathed in golden light. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_prompt": "3D Pixar style scene, warm golden cinematic lighting, split into two stacked horizontal panels. TOP panel: the Hispanic couple (gray-haired bearded husband, dark-haired wife) sleeps peacefully together in bed under white covers, a small cross on the wall above. BOTTOM panel: the same husband sits awake and rested in a plaid armchair reading, no longer slumped, warm morning light around him. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "Gentle slow pan from the bottom rested-husband panel up to the top peaceful-sleeping panel; each panel subtly breathes with calm life. Slow upward pan. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "5"
+  },
+  {
+    "n": "09",
+    "kf_prompt": "3D Pixar style character, warm golden lighting, cozy living room. A Hispanic woman in her late 30s with dark curly hair in a loose bun and a gray hoodie looks toward the camera with a soft grateful smile and slightly teary warm eyes, one hand resting over her heart. Her husband walks energetically in the warm blurred background. Family photos on the wall. Plano medio. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The woman presses her hand to her heart and exhales with a warm grateful smile, eyes glistening. Slow push-in toward her face. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "5"
+  },
+  {
+    "n": "10",
+    "kf_prompt": "3D Pixar style character, warm cinematic lighting, cozy home interior. A Hispanic woman in her late 30s with dark curly hair in a loose bun and a gray hoodie faces the camera directly with an earnest caring expression, speaking to the viewer, one hand open in a sincere gesture toward the camera. Warm soft background with family photos. Plano medio, her face clearly visible and centered. Vertical 9:16.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The woman looks straight at the camera and speaks earnestly to the viewer, one hand opening toward camera in a heartfelt gesture, then nods gently. Her mouth is clearly visible and expressive. Slight slow push-in toward her face. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "11",
+    "kf_prompt": "3D Pixar style infographic scene, warm amber lighting, clean soft background. CENTER: THIS exact BioZentra Ceylon Cinnamon pouch (from the reference image, keep the label and design intact) standing upright, glowing softly with warm golden light. Beside it a clean stylized 3D body cell with its small door opening and glowing golden sugar particles flowing INTO the cell. Floating cinnamon sticks and amber softgel capsules around the pouch. Vertical 9:16.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9c0fdf/AmFYPB9ac_go6E5duy9B8_1779998391511.png"],
+    "anim_prompt": "Golden sugar particles flow through the opening cell door into the cell while the BioZentra pouch glows warmly; cinnamon sticks drift slowly around it. Slow push-in toward the pouch. The label stays sharp and intact. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, extra fingers, text artifacts, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "12",
+    "kf_prompt": "3D Pixar style product hero scene, warm golden outdoor lighting, a park pathway with a couple silhouette walking in golden hour in the deep background. CENTER: THIS exact BioZentra Ceylon Cinnamon pouch (from the reference image, keep the label intact) standing prominently, bathed in warm golden light. Around it float ingredient icons — cinnamon sticks, amber MCT softgel capsules, green leaves. TOP RIGHT: two green glucose meters reading 105 and 130. Vertical 9:16.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9c0fdf/AmFYPB9ac_go6E5duy9B8_1779998391511.png"],
+    "anim_prompt": "The BioZentra pouch stands glowing as the ingredient icons orbit slowly around it and the two glucose meters pulse softly green. Slow push-in toward the pouch. The label stays sharp and intact. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, extra fingers, text artifacts, watermark, blurry",
+    "duration": "10"
+  },
+  {
+    "n": "13",
+    "kf_prompt": "3D Pixar style character, warm golden sunset lighting, outdoor front porch. A Hispanic woman in her late 30s with dark curly hair in a loose bun and a gray hoodie faces the camera holding up THIS exact BioZentra Ceylon Cinnamon pouch (from the reference image, keep the label intact) with both hands toward the viewer, a warm hopeful smile, speaking to the camera. Her husband jogs energetically in the blurred green garden background. Plano medio, her face and the pouch clearly visible. Vertical 9:16.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9c0fdf/AmFYPB9ac_go6E5duy9B8_1779998391511.png"],
+    "anim_prompt": "The woman holds the BioZentra pouch toward the camera with both hands and speaks warmly to the viewer, then gestures open-palmed inviting. Her mouth is clearly visible. Slow push-in toward her and the pouch. negative_prompt: floating in void, spinning, orbiting, weightless, deformed hands, deformed face, extra fingers, text artifacts, watermark, blurry",
+    "duration": "5"
+  }
+]

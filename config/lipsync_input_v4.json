@@ -1,0 +1,4 @@
+[
+  { "n": "10", "video": "clips_v4/raw_10.mp4", "audio": "audio_v4/seg_10.wav" },
+  { "n": "13", "video": "clips_v4/raw_13.mp4", "audio": "audio_v4/seg_13.wav" }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "n": "02",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, tense red mood. Keep ONLY the SAME cartoon GLUCOMETER character (same screen-face, same body) consistent with the reference image — NEW shot, new framing. Its screen now displays a big red '340'; behind and around it, cartoon translucent VEINS are crusting over with hard sugar deposits like scale (sarro). Dark dramatic lighting with red accents. Vertical 9:16.",
+    "anim_prompt": "The glucometer's screen flashes '340' angrily while hard sugar scale crusts along the cartoon veins behind it. Camera: slow push-in. negative_prompt: deformed, creepy, gore, distorted text, watermark, logo, blurry, camera spinning, floating, realistic human",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, dim tired morning light. Keep ONLY the SAME cartoon GLUCOMETER character from the reference image on the nightstand — NEW scene adding a weary middle-aged cartoon MAN. Scene: a tired cartoon man around 50 sits on the edge of his bed looking exhausted and dried-out, rubbing his face; the glucometer character watches him judgmentally from the nightstand drawer. Vertical 9:16, plano medio.",
+    "anim_prompt": "The exhausted man drags himself up rubbing his face while the glucometer watches him judgmentally from the nightstand. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, dark moody clinical-but-warm look, NOT realistic anatomy. A stylized cartoon view of a man's lower leg and foot shown semi-translucent, with glowing cartoon NERVE lines like little wires running through it; the nerve wires are sparking and FLICKERING OUT one by one (dimming), with small buzzing tingle sparkles around them. Deep blue mood with fading warm glow accents. Vertical 9:16.",
+    "anim_prompt": "The glowing cartoon nerve wires buzz and flicker out one by one as the tingle sparkles fade. Camera: slow push-in to a flickering nerve. negative_prompt: realistic anatomy, gore, creepy, deformed, x-ray, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, cold tense mood with red accents. Keep ONLY the SAME cartoon GLUCOMETER character consistent with the reference image — NEW shot. Its screen shows '200'; beside it, two cartoon KIDNEYS (friendly stylized, NOT realistic, bean-shaped with simple faces) are getting clogged and coated with hard sugar deposits, looking strained and unwell. Vertical 9:16.",
+    "anim_prompt": "The glucometer shows '200' while the two cartoon kidneys get coated and clogged with sugar, straining. Camera: slow push-in. negative_prompt: realistic organ, gore, creepy, deformed, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, dark turning to warm golden. Keep ONLY the SAME cartoon GLUCOMETER character from the first reference image — NEW shot. Its screen shows a high rising number, then a warm golden light breaks into the dark room as the Biozentra Ceylon cinnamon POUCH from the second reference image appears glowing warmly beside it; the glucometer looks up with dawning hope. Keep the BioZentra label readable. Vertical 9:16.",
+    "anim_prompt": "The glucometer's number climbs, then warm golden light breaks in and the Biozentra pouch appears glowing; the glucometer looks up hopeful toward it. Camera: slow push-in to the pouch. negative_prompt: deformed label, distorted text, duplicated pouch, creepy, extra limbs, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm golden morning light. Keep ONLY the SAME cartoon GLUCOMETER character from the reference image — NEW joyful morning scene with a cartoon MAN around 50 now RESTED and healthy, smiling, his happy family (wife and child) softly in the background; the glucometer character sits proud on the nightstand displaying a healthy GREEN number. Bright peaceful home. Vertical 9:16, plano medio.",
+    "anim_prompt": "The rested healthy man smiles with his family while the glucometer proudly displays a healthy green number. Camera: slow gentle push-in. negative_prompt: deformed face, deformed hands, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6ad0/302e5d3YN5MBMiNcGCB87_9O3av52T.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm friendly hero look, soft amber background. Keep ONLY the SAME cartoon GLUCOMETER character from the first reference image — hero call-to-action shot. Scene: the Biozentra Ceylon cinnamon pouch from the second reference image glows in the center with friendly cartoon body CELLS opening their little doors to let golden sugar flow gently inside (mechanism); the glucometer character is lifted OUT of the open drawer into the warm light, displaying a healthy green number and inviting the viewer with a little arm. Keep the BioZentra label readable, lower third kept clear for a call-to-action overlay. Vertical 9:16.",
+    "anim_prompt": "The cell doors open letting golden sugar flow inside around the glowing Biozentra pouch as the glucometer is lifted from the drawer into the warm light, displaying a healthy number and inviting the viewer. Camera: slow heroic push-in. negative_prompt: deformed label, distorted text, duplicated pouch, creepy, extra limbs, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  }
+]

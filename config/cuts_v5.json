@@ -1,0 +1,14 @@
+[
+  { "n": "01", "start": 0.00,  "end": 6.45,  "rol": "STORY",   "guion": "Dejaste de comer azúcar, y subió. El pan, subió. Los dulces, subió." },
+  { "n": "02", "start": 6.45,  "end": 9.90,  "rol": "EMOTION", "guion": "Hay algo dañado dentro de ti, y no es tu culpa." },
+  { "n": "03", "start": 9.90,  "end": 16.90, "rol": "STORY",   "guion": "Soy tu hígado, y ya no puedo seguir callado. Todo lo que probaste para la diabetes falló, porque el problema siempre fui yo." },
+  { "n": "04", "start": 16.90, "end": 24.00, "rol": "STORY",   "guion": "Metformina, dieta, ejercicio: todas atacan el azúcar que comes. Nadie ataca la montaña de azúcar que yo fabrico de noche." },
+  { "n": "05", "start": 24.00, "end": 30.90, "rol": "SCIENCE", "guion": "Mi función es tomar tu grasa y tu proteína y convertirlas en azúcar. Tú dejas de comer, pero yo no dejo de soltarla." },
+  { "n": "06", "start": 30.90, "end": 38.40, "rol": "SCIENCE", "guion": "En una persona sana, la insulina me dice cuándo parar. Pero en un diabético esa señal falla, y sigo soltando azúcar." },
+  { "n": "07", "start": 38.40, "end": 45.90, "rol": "SCIENCE", "guion": "Y toda esa azúcar se va pegando por dentro: venas, nervios, ojos. Como sarro en una tubería, dañándote en silencio." },
+  { "n": "08", "start": 45.90, "end": 51.30, "rol": "EMOTION", "guion": "Por eso amaneces en 240 sin cenar nada. No fue el pan: fui yo, toda la noche, cada noche." },
+  { "n": "09", "start": 51.30, "end": 56.10, "rol": "EMOTION", "guion": "La metformina intenta frenarme, pero no siempre alcanza. Es como trapear el piso con la llave abierta." },
+  { "n": "10", "start": 56.10, "end": 61.80, "rol": "CONCEPT", "guion": "Lo que tu cuerpo necesita es algo que recoja toda esa azúcar que yo suelto. Se llama Biozentra." },
+  { "n": "11", "start": 61.80, "end": 67.70, "rol": "SCIENCE", "guion": "Canela de Ceilán envuelta en MCT, que abre tus células y deja que el azúcar entre, en vez de quedarse en tu sangre." },
+  { "n": "12", "start": 67.70, "end": 74.46, "rol": "CONCEPT", "guion": "Dos cápsulas al día. Canela de Ceilán de verdad, que regula tu azúcar y controla la diabetes. Consíguela haciendo clic abajo." }
+]

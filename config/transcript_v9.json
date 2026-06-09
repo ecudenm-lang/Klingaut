@@ -1,0 +1,2710 @@
+{
+  "text": " Soy la canela de ceilán de verdad y te ayudo a controlar tu azúcar, ayudando a tu cuerpo a recibirla y a regularla. Porque el verdadero enemigo no es tu diabetes, no es tu dieta, no es tu medicamento. Es tu hígado, que libera glucosa todas las noches, sin control. Por eso sientes hormigueo, por eso vives cansada, por eso vas al baño a cada rato. No es casualidad, es tu hígado produciendo azúcar sin parar. Soy la metformina. Llevo años intentando ayudarte, pero solo empujo un poco de azúcar a los músculos. No ataco la fábrica que la produce. Pero yo sí llego directo. Ayudo a calmar esa fábrica de azúcar y a que tus células por fin reciban la glucosa. Por eso me llaman la metformina natural. Y para que tu cuerpo me absorba de verdad, voy envuelta en aceite de coco MCT, que me lleva directo a tus células. Por eso existe Biocentra, la canela de ceilán más pura y concentrada, envuelta en MHT. ¿Controla tu diabetes antes de que la diabetes te controle a ti? ¡Tú decides! Haz clic abajo y empieza a regular tu azúcar de forma natural.",
+  "language": "es",
+  "words": [
+    {
+      "n": 0,
+      "text": "Soy",
+      "start": 0.03,
+      "end": 0.15
+    },
+    {
+      "n": 1,
+      "text": "la",
+      "start": 0.15,
+      "end": 0.33
+    },
+    {
+      "n": 2,
+      "text": "canela",
+      "start": 0.33,
+      "end": 0.83
+    },
+    {
+      "n": 3,
+      "text": "de",
+      "start": 0.83,
+      "end": 0.97
+    },
+    {
+      "n": 4,
+      "text": "ceilán",
+      "start": 0.97,
+      "end": 1.39
+    },
+    {
+      "n": 5,
+      "text": "de",
+      "start": 1.39,
+      "end": 1.55
+    },
+    {
+      "n": 6,
+      "text": "verdad",
+      "start": 1.55,
+      "end": 1.83
+    },
+    {
+      "n": 7,
+      "text": "y",
+      "start": 1.83,
+      "end": 2.51
+    },
+    {
+      "n": 8,
+      "text": "te",
+      "start": 2.51,
+      "end": 2.61
+    },
+    {
+      "n": 9,
+      "text": "ayudo",
+      "start": 2.61,
+      "end": 3.09
+    },
+    {
+      "n": 10,
+      "text": "a",
+      "start": 3.09,
+      "end": 3.17
+    },
+    {
+      "n": 11,
+      "text": "controlar",
+      "start": 3.17,
+      "end": 3.51
+    },
+    {
+      "n": 12,
+      "text": "tu",
+      "start": 3.51,
+      "end": 3.81
+    },
+    {
+      "n": 13,
+      "text": "azúcar,",
+      "start": 3.81,
+      "end": 4.41
+    },
+    {
+      "n": 14,
+      "text": "ayudando",
+      "start": 4.91,
+      "end": 5.31
+    },
+    {
+      "n": 15,
+      "text": "a",
+      "start": 5.31,
+      "end": 5.41
+    },
+    {
+      "n": 16,
+      "text": "tu",
+      "start": 5.41,
+      "end": 5.51
+    },
+    {
+      "n": 17,
+      "text": "cuerpo",
+      "start": 5.51,
+      "end": 5.87
+    },
+    {
+      "n": 18,
+      "text": "a",
+      "start": 5.87,
+      "end": 6.17
+    },
+    {
+      "n": 19,
+      "text": "recibirla",
+      "start": 6.17,
+      "end": 6.91
+    },
+    {
+      "n": 20,
+      "text": "y",
+      "start": 6.91,
+      "end": 7.19
+    },
+    {
+      "n": 21,
+      "text": "a",
+      "start": 7.19,
+      "end": 7.31
+    },
+    {
+      "n": 22,
+      "text": "regularla.",
+      "start": 7.31,
+      "end": 8.09
+    },
+    {
+      "n": 23,
+      "text": "Porque",
+      "start": 8.41,
+      "end": 8.55
+    },
+    {
+      "n": 24,
+      "text": "el",
+      "start": 8.55,
+      "end": 8.75
+    },
+    {
+      "n": 25,
+      "text": "verdadero",
+      "start": 8.75,
+      "end": 9.27
+    },
+    {
+      "n": 26,
+      "text": "enemigo",
+      "start": 9.27,
+      "end": 9.73
+    },
+    {
+      "n": 27,
+      "text": "no",
+      "start": 9.73,
+      "end": 9.97
+    },
+    {
+      "n": 28,
+      "text": "es",
+      "start": 9.97,
+      "end": 10.15
+    },
+    {
+      "n": 29,
+      "text": "tu",
+      "start": 10.15,
+      "end": 10.31
+    },
+    {
+      "n": 30,
+      "text": "diabetes,",
+      "start": 10.31,
+      "end": 10.99
+    },
+    {
+      "n": 31,
+      "text": "no",
+      "start": 10.99,
+      "end": 11.35
+    },
+    {
+      "n": 32,
+      "text": "es",
+      "start": 11.35,
+      "end": 11.51
+    },
+    {
+      "n": 33,
+      "text": "tu",
+      "start": 11.51,
+      "end": 11.67
+    },
+    {
+      "n": 34,
+      "text": "dieta,",
+      "start": 11.67,
+      "end": 12.11
+    },
+    {
+      "n": 35,
+      "text": "no",
+      "start": 12.11,
+      "end": 12.45
+    },
+    {
+      "n": 36,
+      "text": "es",
+      "start": 12.45,
+      "end": 12.63
+    },
+    {
+      "n": 37,
+      "text": "tu",
+      "start": 12.63,
+      "end": 12.79
+    },
+    {
+      "n": 38,
+      "text": "medicamento.",
+      "start": 12.79,
+      "end": 13.45
+    },
+    {
+      "n": 39,
+      "text": "Es",
+      "start": 13.79,
+      "end": 13.93
+    },
+    {
+      "n": 40,
+      "text": "tu",
+      "start": 13.93,
+      "end": 14.13
+    },
+    {
+      "n": 41,
+      "text": "hígado,",
+      "start": 14.13,
+      "end": 14.65
+    },
+    {
+      "n": 42,
+      "text": "que",
+      "start": 14.65,
+      "end": 15.15
+    },
+    {
+      "n": 43,
+      "text": "libera",
+      "start": 15.15,
+      "end": 15.61
+    },
+    {
+      "n": 44,
+      "text": "glucosa",
+      "start": 15.61,
+      "end": 16.11
+    },
+    {
+      "n": 45,
+      "text": "todas",
+      "start": 16.11,
+      "end": 16.43
+    },
+    {
+      "n": 46,
+      "text": "las",
+      "start": 16.43,
+      "end": 16.73
+    },
+    {
+      "n": 47,
+      "text": "noches,",
+      "start": 16.73,
+      "end": 17.25
+    },
+    {
+      "n": 48,
+      "text": "sin",
+      "start": 17.25,
+      "end": 17.63
+    },
+    {
+      "n": 49,
+      "text": "control.",
+      "start": 17.63,
+      "end": 18.31
+    },
+    {
+      "n": 50,
+      "text": "Por",
+      "start": 18.65,
+      "end": 18.69
+    },
+    {
+      "n": 51,
+      "text": "eso",
+      "start": 18.69,
+      "end": 18.99
+    },
+    {
+      "n": 52,
+      "text": "sientes",
+      "start": 18.99,
+      "end": 19.39
+    },
+    {
+      "n": 53,
+      "text": "hormigueo,",
+      "start": 19.39,
+      "end": 20.07
+    },
+    {
+      "n": 54,
+      "text": "por",
+      "start": 20.07,
+      "end": 20.51
+    },
+    {
+      "n": 55,
+      "text": "eso",
+      "start": 20.51,
+      "end": 20.77
+    },
+    {
+      "n": 56,
+      "text": "vives",
+      "start": 20.77,
+      "end": 21.09
+    },
+    {
+      "n": 57,
+      "text": "cansada,",
+      "start": 21.09,
+      "end": 21.83
+    },
+    {
+      "n": 58,
+      "text": "por",
+      "start": 21.83,
+      "end": 22.23
+    },
+    {
+      "n": 59,
+      "text": "eso",
+      "start": 22.23,
+      "end": 22.49
+    },
+    {
+      "n": 60,
+      "text": "vas",
+      "start": 22.49,
+      "end": 22.63
+    },
+    {
+      "n": 61,
+      "text": "al",
+      "start": 22.63,
+      "end": 22.85
+    },
+    {
+      "n": 62,
+      "text": "baño",
+      "start": 22.85,
+      "end": 23.21
+    },
+    {
+      "n": 63,
+      "text": "a",
+      "start": 23.21,
+      "end": 23.29
+    },
+    {
+      "n": 64,
+      "text": "cada",
+      "start": 23.29,
+      "end": 23.53
+    },
+    {
+      "n": 65,
+      "text": "rato.",
+      "start": 23.53,
+      "end": 24.11
+    },
+    {
+      "n": 66,
+      "text": "No",
+      "start": 24.45,
+      "end": 24.63
+    },
+    {
+      "n": 67,
+      "text": "es",
+      "start": 24.63,
+      "end": 24.77
+    },
+    {
+      "n": 68,
+      "text": "casualidad,",
+      "start": 24.77,
+      "end": 25.51
+    },
+    {
+      "n": 69,
+      "text": "es",
+      "start": 25.51,
+      "end": 25.85
+    },
+    {
+      "n": 70,
+      "text": "tu",
+      "start": 25.85,
+      "end": 26.03
+    },
+    {
+      "n": 71,
+      "text": "hígado",
+      "start": 26.03,
+      "end": 26.43
+    },
+    {
+      "n": 72,
+      "text": "produciendo",
+      "start": 26.43,
+      "end": 27.01
+    },
+    {
+      "n": 73,
+      "text": "azúcar",
+      "start": 27.01,
+      "end": 27.53
+    },
+    {
+      "n": 74,
+      "text": "sin",
+      "start": 27.53,
+      "end": 27.77
+    },
+    {
+      "n": 75,
+      "text": "parar.",
+      "start": 27.77,
+      "end": 28.13
+    },
+    {
+      "n": 76,
+      "text": "Soy",
+      "start": 28.43,
+      "end": 28.53
+    },
+    {
+      "n": 77,
+      "text": "la",
+      "start": 28.53,
+      "end": 28.69
+    },
+    {
+      "n": 78,
+      "text": "metformina.",
+      "start": 28.69,
+      "end": 29.33
+    },
+    {
+      "n": 79,
+      "text": "Llevo",
+      "start": 29.8,
+      "end": 30.02
+    },
+    {
+      "n": 80,
+      "text": "años",
+      "start": 30.02,
+      "end": 30.3
+    },
+    {
+      "n": 81,
+      "text": "intentando",
+      "start": 30.3,
+      "end": 30.92
+    },
+    {
+      "n": 82,
+      "text": "ayudarte,",
+      "start": 30.92,
+      "end": 31.5
+    },
+    {
+      "n": 83,
+      "text": "pero",
+      "start": 31.5,
+      "end": 31.96
+    },
+    {
+      "n": 84,
+      "text": "solo",
+      "start": 31.96,
+      "end": 32.2
+    },
+    {
+      "n": 85,
+      "text": "empujo",
+      "start": 32.2,
+      "end": 32.64
+    },
+    {
+      "n": 86,
+      "text": "un",
+      "start": 32.64,
+      "end": 32.8
+    },
+    {
+      "n": 87,
+      "text": "poco",
+      "start": 32.8,
+      "end": 33.04
+    },
+    {
+      "n": 88,
+      "text": "de",
+      "start": 33.04,
+      "end": 33.24
+    },
+    {
+      "n": 89,
+      "text": "azúcar",
+      "start": 33.24,
+      "end": 33.58
+    },
+    {
+      "n": 90,
+      "text": "a",
+      "start": 33.58,
+      "end": 33.74
+    },
+    {
+      "n": 91,
+      "text": "los",
+      "start": 33.74,
+      "end": 33.86
+    },
+    {
+      "n": 92,
+      "text": "músculos.",
+      "start": 33.86,
+      "end": 34.5
+    },
+    {
+      "n": 93,
+      "text": "No",
+      "start": 34.92,
+      "end": 34.94
+    },
+    {
+      "n": 94,
+      "text": "ataco",
+      "start": 34.94,
+      "end": 35.28
+    },
+    {
+      "n": 95,
+      "text": "la",
+      "start": 35.28,
+      "end": 35.46
+    },
+    {
+      "n": 96,
+      "text": "fábrica",
+      "start": 35.46,
+      "end": 35.84
+    },
+    {
+      "n": 97,
+      "text": "que",
+      "start": 35.84,
+      "end": 36.08
+    },
+    {
+      "n": 98,
+      "text": "la",
+      "start": 36.08,
+      "end": 36.18
+    },
+    {
+      "n": 99,
+      "text": "produce.",
+      "start": 36.18,
+      "end": 36.78
+    },
+    {
+      "n": 100,
+      "text": "Pero",
+      "start": 37.26,
+      "end": 37.34
+    },
+    {
+      "n": 101,
+      "text": "yo",
+      "start": 37.34,
+      "end": 37.68
+    },
+    {
+      "n": 102,
+      "text": "sí",
+      "start": 37.68,
+      "end": 37.94
+    },
+    {
+      "n": 103,
+      "text": "llego",
+      "start": 37.94,
+      "end": 38.32
+    },
+    {
+      "n": 104,
+      "text": "directo.",
+      "start": 38.32,
+      "end": 38.86
+    },
+    {
+      "n": 105,
+      "text": "Ayudo",
+      "start": 39.32,
+      "end": 39.6
+    },
+    {
+      "n": 106,
+      "text": "a",
+      "start": 39.6,
+      "end": 39.7
+    },
+    {
+      "n": 107,
+      "text": "calmar",
+      "start": 39.7,
+      "end": 40.02
+    },
+    {
+      "n": 108,
+      "text": "esa",
+      "start": 40.02,
+      "end": 40.22
+    },
+    {
+      "n": 109,
+      "text": "fábrica",
+      "start": 40.22,
+      "end": 40.64
+    },
+    {
+      "n": 110,
+      "text": "de",
+      "start": 40.64,
+      "end": 40.8
+    },
+    {
+      "n": 111,
+      "text": "azúcar",
+      "start": 40.8,
+      "end": 41.22
+    },
+    {
+      "n": 112,
+      "text": "y",
+      "start": 41.22,
+      "end": 41.5
+    },
+    {
+      "n": 113,
+      "text": "a",
+      "start": 41.5,
+      "end": 41.62
+    },
+    {
+      "n": 114,
+      "text": "que",
+      "start": 41.62,
+      "end": 41.7
+    },
+    {
+      "n": 115,
+      "text": "tus",
+      "start": 41.7,
+      "end": 41.92
+    },
+    {
+      "n": 116,
+      "text": "células",
+      "start": 41.92,
+      "end": 42.22
+    },
+    {
+      "n": 117,
+      "text": "por",
+      "start": 42.22,
+      "end": 42.5
+    },
+    {
+      "n": 118,
+      "text": "fin",
+      "start": 42.5,
+      "end": 42.78
+    },
+    {
+      "n": 119,
+      "text": "reciban",
+      "start": 42.78,
+      "end": 43.3
+    },
+    {
+      "n": 120,
+      "text": "la",
+      "start": 43.3,
+      "end": 43.44
+    },
+    {
+      "n": 121,
+      "text": "glucosa.",
+      "start": 43.44,
+      "end": 44.08
+    },
+    {
+      "n": 122,
+      "text": "Por",
+      "start": 44.46,
+      "end": 44.56
+    },
+    {
+      "n": 123,
+      "text": "eso",
+      "start": 44.56,
+      "end": 44.78
+    },
+    {
+      "n": 124,
+      "text": "me",
+      "start": 44.78,
+      "end": 44.92
+    },
+    {
+      "n": 125,
+      "text": "llaman",
+      "start": 44.92,
+      "end": 45.24
+    },
+    {
+      "n": 126,
+      "text": "la",
+      "start": 45.24,
+      "end": 45.42
+    },
+    {
+      "n": 127,
+      "text": "metformina",
+      "start": 45.42,
+      "end": 46.12
+    },
+    {
+      "n": 128,
+      "text": "natural.",
+      "start": 46.12,
+      "end": 46.44
+    },
+    {
+      "n": 129,
+      "text": "Y",
+      "start": 46.94,
+      "end": 46.98
+    },
+    {
+      "n": 130,
+      "text": "para",
+      "start": 46.98,
+      "end": 47.18
+    },
+    {
+      "n": 131,
+      "text": "que",
+      "start": 47.18,
+      "end": 47.32
+    },
+    {
+      "n": 132,
+      "text": "tu",
+      "start": 47.32,
+      "end": 47.48
+    },
+    {
+      "n": 133,
+      "text": "cuerpo",
+      "start": 47.48,
+      "end": 47.86
+    },
+    {
+      "n": 134,
+      "text": "me",
+      "start": 47.86,
+      "end": 48.08
+    },
+    {
+      "n": 135,
+      "text": "absorba",
+      "start": 48.08,
+      "end": 48.58
+    },
+    {
+      "n": 136,
+      "text": "de",
+      "start": 48.58,
+      "end": 48.68
+    },
+    {
+      "n": 137,
+      "text": "verdad,",
+      "start": 48.68,
+      "end": 49.16
+    },
+    {
+      "n": 138,
+      "text": "voy",
+      "start": 49.16,
+      "end": 49.56
+    },
+    {
+      "n": 139,
+      "text": "envuelta",
+      "start": 49.56,
+      "end": 50.06
+    },
+    {
+      "n": 140,
+      "text": "en",
+      "start": 50.06,
+      "end": 50.18
+    },
+    {
+      "n": 141,
+      "text": "aceite",
+      "start": 50.18,
+      "end": 50.46
+    },
+    {
+      "n": 142,
+      "text": "de",
+      "start": 50.46,
+      "end": 50.8
+    },
+    {
+      "n": 143,
+      "text": "coco",
+      "start": 50.8,
+      "end": 51.02
+    },
+    {
+      "n": 144,
+      "text": "MCT,",
+      "start": 51.02,
+      "end": 52
+    },
+    {
+      "n": 145,
+      "text": "que",
+      "start": 52.4,
+      "end": 52.46
+    },
+    {
+      "n": 146,
+      "text": "me",
+      "start": 52.46,
+      "end": 52.62
+    },
+    {
+      "n": 147,
+      "text": "lleva",
+      "start": 52.62,
+      "end": 52.84
+    },
+    {
+      "n": 148,
+      "text": "directo",
+      "start": 52.84,
+      "end": 53.38
+    },
+    {
+      "n": 149,
+      "text": "a",
+      "start": 53.38,
+      "end": 53.42
+    },
+    {
+      "n": 150,
+      "text": "tus",
+      "start": 53.42,
+      "end": 53.56
+    },
+    {
+      "n": 151,
+      "text": "células.",
+      "start": 53.56,
+      "end": 54.02
+    },
+    {
+      "n": 152,
+      "text": "Por",
+      "start": 54.81,
+      "end": 54.91
+    },
+    {
+      "n": 153,
+      "text": "eso",
+      "start": 54.91,
+      "end": 55.23
+    },
+    {
+      "n": 154,
+      "text": "existe",
+      "start": 55.23,
+      "end": 55.65
+    },
+    {
+      "n": 155,
+      "text": "Biocentra,",
+      "start": 55.65,
+      "end": 56.87
+    },
+    {
+      "n": 156,
+      "text": "la",
+      "start": 56.87,
+      "end": 57.21
+    },
+    {
+      "n": 157,
+      "text": "canela",
+      "start": 57.21,
+      "end": 57.71
+    },
+    {
+      "n": 158,
+      "text": "de",
+      "start": 57.71,
+      "end": 57.85
+    },
+    {
+      "n": 159,
+      "text": "ceilán",
+      "start": 57.85,
+      "end": 58.25
+    },
+    {
+      "n": 160,
+      "text": "más",
+      "start": 58.25,
+      "end": 58.59
+    },
+    {
+      "n": 161,
+      "text": "pura",
+      "start": 58.59,
+      "end": 59.09
+    },
+    {
+      "n": 162,
+      "text": "y",
+      "start": 59.09,
+      "end": 59.23
+    },
+    {
+      "n": 163,
+      "text": "concentrada,",
+      "start": 59.23,
+      "end": 60.19
+    },
+    {
+      "n": 164,
+      "text": "envuelta",
+      "start": 60.19,
+      "end": 61.23
+    },
+    {
+      "n": 165,
+      "text": "en",
+      "start": 61.23,
+      "end": 61.51
+    },
+    {
+      "n": 166,
+      "text": "MHT.",
+      "start": 61.51,
+      "end": 62.31
+    },
+    {
+      "n": 167,
+      "text": "¿Controla",
+      "start": 62.95,
+      "end": 63.51
+    },
+    {
+      "n": 168,
+      "text": "tu",
+      "start": 63.51,
+      "end": 63.69
+    },
+    {
+      "n": 169,
+      "text": "diabetes",
+      "start": 63.69,
+      "end": 64.01
+    },
+    {
+      "n": 170,
+      "text": "antes",
+      "start": 64.01,
+      "end": 64.47
+    },
+    {
+      "n": 171,
+      "text": "de",
+      "start": 64.47,
+      "end": 64.75
+    },
+    {
+      "n": 172,
+      "text": "que",
+      "start": 64.75,
+      "end": 64.91
+    },
+    {
+      "n": 173,
+      "text": "la",
+      "start": 64.91,
+      "end": 65.03
+    },
+    {
+      "n": 174,
+      "text": "diabetes",
+      "start": 65.03,
+      "end": 65.37
+    },
+    {
+      "n": 175,
+      "text": "te",
+      "start": 65.37,
+      "end": 65.63
+    },
+    {
+      "n": 176,
+      "text": "controle",
+      "start": 65.63,
+      "end": 65.99
+    },
+    {
+      "n": 177,
+      "text": "a",
+      "start": 65.99,
+      "end": 66.15
+    },
+    {
+      "n": 178,
+      "text": "ti?",
+      "start": 66.15,
+      "end": 66.41
+    },
+    {
+      "n": 179,
+      "text": "¡Tú",
+      "start": 66.87,
+      "end": 67.03
+    },
+    {
+      "n": 180,
+      "text": "decides!",
+      "start": 67.03,
+      "end": 67.85
+    },
+    {
+      "n": 181,
+      "text": "Haz",
+      "start": 68.27,
+      "end": 68.33
+    },
+    {
+      "n": 182,
+      "text": "clic",
+      "start": 68.33,
+      "end": 68.61
+    },
+    {
+      "n": 183,
+      "text": "abajo",
+      "start": 68.61,
+      "end": 68.87
+    },
+    {
+      "n": 184,
+      "text": "y",
+      "start": 68.87,
+      "end": 69.49
+    },
+    {
+      "n": 185,
+      "text": "empieza",
+      "start": 69.49,
+      "end": 69.93
+    },
+    {
+      "n": 186,
+      "text": "a",
+      "start": 69.93,
+      "end": 70.09
+    },
+    {
+      "n": 187,
+      "text": "regular",
+      "start": 70.09,
+      "end": 70.39
+    },
+    {
+      "n": 188,
+      "text": "tu",
+      "start": 70.39,
+      "end": 70.73
+    },
+    {
+      "n": 189,
+      "text": "azúcar",
+      "start": 70.73,
+      "end": 71.09
+    },
+    {
+      "n": 190,
+      "text": "de",
+      "start": 71.09,
+      "end": 71.35
+    },
+    {
+      "n": 191,
+      "text": "forma",
+      "start": 71.35,
+      "end": 71.65
+    },
+    {
+      "n": 192,
+      "text": "natural.",
+      "start": 71.65,
+      "end": 72.13
+    }
+  ],
+  "chunks": [
+    {
+      "timestamp": [
+        0.03,
+        0.15
+      ],
+      "text": " Soy",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.15,
+        0.33
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.33,
+        0.83
+      ],
+      "text": " canela",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.83,
+        0.97
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        0.97,
+        1.39
+      ],
+      "text": " ceilán",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        1.39,
+        1.55
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        1.55,
+        1.83
+      ],
+      "text": " verdad",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        1.83,
+        2.51
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        2.51,
+        2.61
+      ],
+      "text": " te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        2.61,
+        3.09
+      ],
+      "text": " ayudo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.09,
+        3.17
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.17,
+        3.51
+      ],
+      "text": " controlar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.51,
+        3.81
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        3.81,
+        4.41
+      ],
+      "text": " azúcar,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        4.91,
+        5.31
+      ],
+      "text": " ayudando",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.31,
+        5.41
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.41,
+        5.51
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.51,
+        5.87
+      ],
+      "text": " cuerpo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        5.87,
+        6.17
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        6.17,
+        6.91
+      ],
+      "text": " recibirla",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        6.91,
+        7.19
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        7.19,
+        7.31
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        7.31,
+        8.09
+      ],
+      "text": " regularla.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.41,
+        8.55
+      ],
+      "text": " Porque",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.55,
+        8.75
+      ],
+      "text": " el",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        8.75,
+        9.27
+      ],
+      "text": " verdadero",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        9.27,
+        9.73
+      ],
+      "text": " enemigo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        9.73,
+        9.97
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        9.97,
+        10.15
+      ],
+      "text": " es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.15,
+        10.31
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.31,
+        10.99
+      ],
+      "text": " diabetes,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        10.99,
+        11.35
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        11.35,
+        11.51
+      ],
+      "text": " es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        11.51,
+        11.67
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        11.67,
+        12.11
+      ],
+      "text": " dieta,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.11,
+        12.45
+      ],
+      "text": " no",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.45,
+        12.63
+      ],
+      "text": " es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.63,
+        12.79
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        12.79,
+        13.45
+      ],
+      "text": " medicamento.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        13.79,
+        13.93
+      ],
+      "text": " Es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        13.93,
+        14.13
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        14.13,
+        14.65
+      ],
+      "text": " hígado,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        14.65,
+        15.15
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        15.15,
+        15.61
+      ],
+      "text": " libera",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        15.61,
+        16.11
+      ],
+      "text": " glucosa",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        16.11,
+        16.43
+      ],
+      "text": " todas",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        16.43,
+        16.73
+      ],
+      "text": " las",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        16.73,
+        17.25
+      ],
+      "text": " noches,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        17.25,
+        17.63
+      ],
+      "text": " sin",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        17.63,
+        18.31
+      ],
+      "text": " control.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        18.65,
+        18.69
+      ],
+      "text": " Por",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        18.69,
+        18.99
+      ],
+      "text": " eso",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        18.99,
+        19.39
+      ],
+      "text": " sientes",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        19.39,
+        20.07
+      ],
+      "text": " hormigueo,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        20.07,
+        20.51
+      ],
+      "text": " por",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        20.51,
+        20.77
+      ],
+      "text": " eso",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        20.77,
+        21.09
+      ],
+      "text": " vives",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        21.09,
+        21.83
+      ],
+      "text": " cansada,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        21.83,
+        22.23
+      ],
+      "text": " por",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        22.23,
+        22.49
+      ],
+      "text": " eso",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        22.49,
+        22.63
+      ],
+      "text": " vas",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        22.63,
+        22.85
+      ],
+      "text": " al",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        22.85,
+        23.21
+      ],
+      "text": " baño",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.21,
+        23.29
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.29,
+        23.53
+      ],
+      "text": " cada",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        23.53,
+        24.11
+      ],
+      "text": " rato.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        24.45,
+        24.63
+      ],
+      "text": " No",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        24.63,
+        24.77
+      ],
+      "text": " es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        24.77,
+        25.51
+      ],
+      "text": " casualidad,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        25.51,
+        25.85
+      ],
+      "text": " es",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        25.85,
+        26.03
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        26.03,
+        26.43
+      ],
+      "text": " hígado",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        26.43,
+        27.01
+      ],
+      "text": " produciendo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        27.01,
+        27.53
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        27.53,
+        27.77
+      ],
+      "text": " sin",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        27.77,
+        28.13
+      ],
+      "text": " parar.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        28.43,
+        28.53
+      ],
+      "text": " Soy",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        28.53,
+        28.69
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        28.69,
+        29.33
+      ],
+      "text": " metformina.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        29.8,
+        30.02
+      ],
+      "text": " Llevo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.02,
+        30.3
+      ],
+      "text": " años",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.3,
+        30.92
+      ],
+      "text": " intentando",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        30.92,
+        31.5
+      ],
+      "text": " ayudarte,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        31.5,
+        31.96
+      ],
+      "text": " pero",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        31.96,
+        32.2
+      ],
+      "text": " solo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.2,
+        32.64
+      ],
+      "text": " empujo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.64,
+        32.8
+      ],
+      "text": " un",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        32.8,
+        33.04
+      ],
+      "text": " poco",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.04,
+        33.24
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.24,
+        33.58
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.58,
+        33.74
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.74,
+        33.86
+      ],
+      "text": " los",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        33.86,
+        34.5
+      ],
+      "text": " músculos.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        34.92,
+        34.94
+      ],
+      "text": " No",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        34.94,
+        35.28
+      ],
+      "text": " ataco",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.28,
+        35.46
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.46,
+        35.84
+      ],
+      "text": " fábrica",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        35.84,
+        36.08
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        36.08,
+        36.18
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        36.18,
+        36.78
+      ],
+      "text": " produce.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.26,
+        37.34
+      ],
+      "text": " Pero",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.34,
+        37.68
+      ],
+      "text": " yo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.68,
+        37.94
+      ],
+      "text": " sí",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        37.94,
+        38.32
+      ],
+      "text": " llego",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        38.32,
+        38.86
+      ],
+      "text": " directo.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.32,
+        39.6
+      ],
+      "text": " Ayudo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.6,
+        39.7
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        39.7,
+        40.02
+      ],
+      "text": " calmar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.02,
+        40.22
+      ],
+      "text": " esa",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.22,
+        40.64
+      ],
+      "text": " fábrica",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.64,
+        40.8
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        40.8,
+        41.22
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.22,
+        41.5
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.5,
+        41.62
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.62,
+        41.7
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.7,
+        41.92
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        41.92,
+        42.22
+      ],
+      "text": " células",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        42.22,
+        42.5
+      ],
+      "text": " por",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        42.5,
+        42.78
+      ],
+      "text": " fin",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        42.78,
+        43.3
+      ],
+      "text": " reciban",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        43.3,
+        43.44
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        43.44,
+        44.08
+      ],
+      "text": " glucosa.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.46,
+        44.56
+      ],
+      "text": " Por",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.56,
+        44.78
+      ],
+      "text": " eso",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.78,
+        44.92
+      ],
+      "text": " me",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        44.92,
+        45.24
+      ],
+      "text": " llaman",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        45.24,
+        45.42
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        45.42,
+        46.12
+      ],
+      "text": " metformina",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        46.12,
+        46.44
+      ],
+      "text": " natural.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        46.94,
+        46.98
+      ],
+      "text": " Y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        46.98,
+        47.18
+      ],
+      "text": " para",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.18,
+        47.32
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.32,
+        47.48
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.48,
+        47.86
+      ],
+      "text": " cuerpo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        47.86,
+        48.08
+      ],
+      "text": " me",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        48.08,
+        48.58
+      ],
+      "text": " absorba",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        48.58,
+        48.68
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        48.68,
+        49.16
+      ],
+      "text": " verdad,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        49.16,
+        49.56
+      ],
+      "text": " voy",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        49.56,
+        50.06
+      ],
+      "text": " envuelta",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.06,
+        50.18
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.18,
+        50.46
+      ],
+      "text": " aceite",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.46,
+        50.8
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        50.8,
+        51.02
+      ],
+      "text": " coco",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        51.02,
+        52
+      ],
+      "text": " MCT,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.4,
+        52.46
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.46,
+        52.62
+      ],
+      "text": " me",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.62,
+        52.84
+      ],
+      "text": " lleva",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        52.84,
+        53.38
+      ],
+      "text": " directo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        53.38,
+        53.42
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        53.42,
+        53.56
+      ],
+      "text": " tus",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        53.56,
+        54.02
+      ],
+      "text": " células.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        54.81,
+        54.91
+      ],
+      "text": " Por",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        54.91,
+        55.23
+      ],
+      "text": " eso",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        55.23,
+        55.65
+      ],
+      "text": " existe",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        55.65,
+        56.87
+      ],
+      "text": " Biocentra,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        56.87,
+        57.21
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.21,
+        57.71
+      ],
+      "text": " canela",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.71,
+        57.85
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        57.85,
+        58.25
+      ],
+      "text": " ceilán",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        58.25,
+        58.59
+      ],
+      "text": " más",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        58.59,
+        59.09
+      ],
+      "text": " pura",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        59.09,
+        59.23
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        59.23,
+        60.19
+      ],
+      "text": " concentrada,",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        60.19,
+        61.23
+      ],
+      "text": " envuelta",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        61.23,
+        61.51
+      ],
+      "text": " en",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        61.51,
+        62.31
+      ],
+      "text": " MHT.",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        62.95,
+        63.51
+      ],
+      "text": " ¿Controla",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        63.51,
+        63.69
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        63.69,
+        64.01
+      ],
+      "text": " diabetes",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        64.01,
+        64.47
+      ],
+      "text": " antes",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        64.47,
+        64.75
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        64.75,
+        64.91
+      ],
+      "text": " que",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        64.91,
+        65.03
+      ],
+      "text": " la",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        65.03,
+        65.37
+      ],
+      "text": " diabetes",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        65.37,
+        65.63
+      ],
+      "text": " te",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        65.63,
+        65.99
+      ],
+      "text": " controle",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        65.99,
+        66.15
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        66.15,
+        66.41
+      ],
+      "text": " ti?",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        66.87,
+        67.03
+      ],
+      "text": " ¡Tú",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        67.03,
+        67.85
+      ],
+      "text": " decides!",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        68.27,
+        68.33
+      ],
+      "text": " Haz",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        68.33,
+        68.61
+      ],
+      "text": " clic",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        68.61,
+        68.87
+      ],
+      "text": " abajo",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        68.87,
+        69.49
+      ],
+      "text": " y",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        69.49,
+        69.93
+      ],
+      "text": " empieza",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        69.93,
+        70.09
+      ],
+      "text": " a",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        70.09,
+        70.39
+      ],
+      "text": " regular",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        70.39,
+        70.73
+      ],
+      "text": " tu",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        70.73,
+        71.09
+      ],
+      "text": " azúcar",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        71.09,
+        71.35
+      ],
+      "text": " de",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        71.35,
+        71.65
+      ],
+      "text": " forma",
+      "speaker": null
+    },
+    {
+      "timestamp": [
+        71.65,
+        72.13
+      ],
+      "text": " natural.",
+      "speaker": null
+    }
+  ]
+}

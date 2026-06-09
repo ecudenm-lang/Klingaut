@@ -1,0 +1,79 @@
+[
+  {
+    "n": "02",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character (glossy reddish-brown, big expressive eyes, tiny arms and legs) as the reference image. Framed as a CLOSE-UP on the liver character's sad, sweaty, teary face with big worried eyes; the rusty faucet and the dim room are visible behind. Vertical 9:16.",
+    "anim_prompt": "The liver's worried eyes well up and a sweat drop rolls down as it looks at the viewer with a guilty, sorrowful expression. Camera: slow push-in to its face. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": "5"
+  },
+  {
+    "n": "03",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character as the reference image, keep the chair, hanging light, faucet and the red '240' glucose meter. The liver character sits on the chair and presses one little hand to its chest in a heavy confession, looking directly at the viewer. Vertical 9:16.",
+    "anim_prompt": "The liver presses a little hand to its chest and lowers its eyes in a heavy confession, then looks up at the viewer. Camera: slow push-in toward the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character as the reference image. The liver character points downward with one little hand at three cardboard 'EVIDENCE' cards on the floor labeled 'METFORMINA', 'DIETA', 'EJERCICIO', each stamped with a red X; the salad plate, pills and sneaker are around them. The red '240' glucose meter glows on the wall. Vertical 9:16.",
+    "anim_prompt": "The liver gestures down at the three EVIDENCE cards on the floor, shrugging as if none of them stop it. Camera: slow push-in past the cards to the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character as the reference image. The liver character's belly is OPEN like a hatch revealing a dark machine of turning brass GEARS and pistons (a hidden sugar factory) inside it; small white sugar cubes pile up on the floor below it; an 'EVIDENCE' card nearby. Vertical 9:16.",
+    "anim_prompt": "The gears and pistons inside the liver's open belly turn relentlessly, pumping out little white sugar cubes that pile up below. Camera: slow push-in toward the churning gears. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character as the reference image. On the wall beside the liver is a control panel with an 'INSULIN' signal switch and gauge that is broken and sparking red 'FAIL'; the rusty faucet keeps leaking sugar; the liver shrugs helplessly. Vertical 9:16.",
+    "anim_prompt": "The broken INSULIN gauge sparks and flashes red while the faucet keeps leaking sugar; the liver shrugs helplessly. Camera: slow pan from the broken gauge to the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character as the reference image. Behind the liver hangs a presentation screen split into three cartoon medical diagrams: a blood VESSEL clogged with sugar crystals, a damaged NERVE, and an EYE with retinal deposits; the liver character looks back at the screen, ashamed. Vertical 9:16.",
+    "anim_prompt": "The liver glances back guiltily at the three glowing damage diagrams (clogged vessel, nerve, eye) on the screen behind it. Camera: slow push-in past the liver to the screen. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Use the SAME dark interrogation room and the SAME cartoon LIVER character as the reference image. Behind the liver, a bank of monitors shows a person sleeping in a bed at night, a hand holding a glucose meter reading '240', and a plate of salad; the liver sits guilty in the metal chair, head lowered. Vertical 9:16.",
+    "anim_prompt": "The monitors behind flicker showing the sleeping diabetic and the '240' reading while the liver lowers its head in guilt. Camera: slow push-in toward the liver. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": "5"
+  },
+  {
+    "n": "09",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, split into two stacked horizontal panels. TOP panel: a bright kitchen flooding with water, a tired man mopping the wet floor while a big faucet gushes water nonstop (a futile effort). BOTTOM panel: a cartoon LIVER character (glossy reddish-brown, big sad droopy eyes, tiny arms and legs) slumped exhausted and defeated in a cozy beige armchair beside a warm lamp. Cinematic contrast. Vertical 9:16.",
+    "anim_prompt": "Top: the man keeps mopping while the faucet gushes and the water never clears. Bottom: the exhausted liver slumps deeper into the armchair. Camera: gentle slow push-in across both panels. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": "5"
+  },
+  {
+    "n": "10",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png", "https://v3b.fal.media/files/b/0a9d5e21/p-PBHiazpVy4EyWA5l27-_1780854089320.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. The SAME dark interrogation room and the SAME cartoon LIVER character from the first reference image, but a warm golden light now breaks into the dark room. The liver character looks up with dawning hope as the Biozentra Ceylon cinnamon pouch from the second reference image appears glowing warmly in the air in front of it. Vertical 9:16.",
+    "anim_prompt": "A warm golden light breaks into the dark room; the liver looks up hopeful as the glowing Biozentra pouch appears before it. Camera: slow push-in toward the glowing pouch. negative_prompt: realistic organ, gore, deformed, extra limbs, creepy, deformed label, distorted text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "11",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, warm clean friendly scientific look, soft amber background. Cartoon body CELLS shown as friendly rounded translucent shapes each with a little door; warm amber Ceylon cinnamon essence — cinnamon sticks and golden MCT oil droplets — flows toward them and the cell doors OPEN, letting glowing golden sugar particles flow gently inside the cells instead of staying in the red bloodstream around them. Hopeful warm lighting. Vertical 9:16.",
+    "anim_prompt": "The warm cinnamon essence flows to the cells, their little doors open, and the golden sugar particles stream gently inside. Camera: slow push-in toward an opening cell door. negative_prompt: realistic organ, gore, deformed, creepy, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "12",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d5e21/p-PBHiazpVy4EyWA5l27-_1780854089320.png", "https://v3b.fal.media/files/b/0a9d62e5/h4RYeAN5JWl59fH5XeJD1_N8VpvC7d.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm sunny garden at golden hour. THE HERO PRODUCT SHOT. The Biozentra Ceylon cinnamon pouch from the first reference image as a cheerful animated MASCOT (big friendly eyes, wide smile, little arms) standing centered, with cinnamon sticks and golden MCT oil droplets orbiting it and warm sparkles. In the soft-focus background, the same cartoon LIVER character from the second reference now HAPPY and healthy, relaxing in a cozy armchair and giving a thumbs up. A green glucose meter reads '119'. Keep the BioZentra label readable. Leave the lower third clear for a call-to-action overlay. Vertical 9:16.",
+    "anim_prompt": "The Biozentra pouch mascot beams and waves its little arms as cinnamon and golden droplets orbit and sparkles rise; the happy liver gives a thumbs up from the armchair behind. Camera: slow heroic push-in toward the pouch. negative_prompt: deformed label, distorted text, creepy face, extra limbs, duplicated pouch, realistic organ, gore, watermark, blurry, camera spinning",
+    "duration": "10"
+  }
+]

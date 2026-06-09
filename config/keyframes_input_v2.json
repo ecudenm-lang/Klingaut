@@ -1,0 +1,72 @@
+[
+  {
+    "n": "02",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round tortoiseshell glasses, white coat, stethoscope) consistent with the reference image — this is a DIFFERENT shot with a new camera angle and composition. Scene: inside her warm clinic office she sits at her desk handing the SAME orange-capped METFORMINA pill bottle across to an elderly patient seated across from her (back partly to camera), routine and mechanical; a tray of identical pill bottles and a wall clock beside her. Vertical 9:16, plano general two-shot, wider framing than the reference.",
+    "anim_prompt": "Dra. Lucia mechanically slides the same pill bottle across the desk to the patient, then to the next, a tired repetitive routine. Camera: slow pan across the desk. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses, white coat, stethoscope) consistent with the reference image — DIFFERENT shot, new angle. Scene: now SHE is the patient, sitting on the edge of her own desk turned toward camera, looking down at a glucose meter in her own hand with a worried, humbled expression, a single white metformina pill between the fingers of her other hand. Vertical 9:16, plano medio, eye-level.",
+    "anim_prompt": "Dra. Lucia looks down at her own glucose meter and the pill, then up at the viewer, speaking with quiet shame, mouth moving as she talks. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "04",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, dark cinematic moody lighting. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses) consistent with the reference image, but now in civilian clothes (dark jacket, grey top) — this is a COMPLETELY NEW scene and location, do NOT reuse the office background or framing of the reference. Scene: OUTSIDE at night in a hospital parking garage, cold green-blue fluorescent lights overhead, a glowing HOSPITAL sign in the background; she stands by her open car door, one hand gripping the frame, looking anxiously at a glucose meter glowing red 'HIGH' on the car seat; small glowing pins-and-needles sparkles flicker around her feet. Vertical 9:16, plano general, slight high angle.",
+    "anim_prompt": "Dra. Lucia grips the car door and stares anxiously at the red glucose meter, glowing tingles flicker around her feet, she shifts uneasily and looks toward the hospital sign. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, dark moody bedroom lighting at night. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses) consistent with the reference image, now in striped pajamas — this is a COMPLETELY NEW scene, do NOT reuse the office background or framing of the reference. Scene: she sits upright in bed at night, frightened, gripping the sheets; on the dim wall behind her a large dramatic SHADOW silhouette of a surgical saw and a hospital gurney looms (fear of amputation, stylized cartoon shadow, NO blood, NO gore); on a shelf beside the bed a jar of Ceylon cinnamon sticks sits quietly with a faint warm glow, unnoticed. Vertical 9:16, plano medio, slight low angle.",
+    "anim_prompt": "Dra. Lucia looks up at the looming shadow with wide worried eyes, pulls her legs closer, then glances toward the faintly glowing cinnamon jar on the shelf, speaking softly, mouth moving. Camera: slow push-in. negative_prompt: gore, blood, severed limb, deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, clean clinical-but-warm look. A cartoon LIVER organ (glossy reddish-brown, friendly stylized, NOT realistic, big soft shape) at night inside a simple translucent body silhouette, quietly leaking glowing golden sugar droplets into the bloodstream around it; a little cartoon 'METFORMINA' pill bounces uselessly on the OUTSIDE of the body, never reaching the liver. Deep night-blue mood with warm sugar glow. Vertical 9:16.",
+    "anim_prompt": "The cartoon liver steadily leaks golden sugar into the blood at night while the metformina pill bounces uselessly outside, never reaching it. Camera: slow push-in to the liver. negative_prompt: realistic organ, gore, creepy, deformed, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "07",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm amber desk-lamp lighting. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses, white coat, stethoscope) consistent with the reference image — NEW scene and angle, do NOT reuse the clinic desk or framing of the reference. Scene: in her warm home study (wooden bookshelves full of medical books, vintage desk lamp, plants), indignant with controlled anger, holding up a single white pill between her fingers; behind her a small cartoon diagram of a liver with a red X over the pill. Vertical 9:16, plano medio cerrado.",
+    "anim_prompt": "Dra. Lucia holds up the pill with controlled indignation and speaks firmly to the viewer, mouth moving, shaking her head once. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm golden light. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses, white coat) from the first reference image — NEW scene and angle. Scene: in her warm home study, warm golden light filling the room, she holds up the Biozentra Ceylon cinnamon POUCH from the second reference image with dawning hope and a soft smile; keep the BioZentra label readable; a few cinnamon sticks on the desk. Vertical 9:16, plano medio.",
+    "anim_prompt": "Warm golden light fills the study; Dra. Lucia lifts the Biozentra pouch with hope and a soft smile, mouth moving as she names it. Camera: slow push-in to the pouch. negative_prompt: deformed label, distorted text, duplicated pouch, creepy face, extra fingers, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "09",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm clean friendly scientific look, soft amber background. Friendly rounded translucent body CELLS each with a little door; warm Ceylon cinnamon essence and golden MCT oil droplets (matching the Biozentra pouch in the reference image) flow toward them and the cell doors OPEN, letting glowing golden sugar particles flow gently inside the cells instead of staying in the red bloodstream around them. A small green glucose meter in the corner reads '112'. Hopeful warm lighting. Vertical 9:16.",
+    "anim_prompt": "The warm cinnamon essence flows to the cells, their little doors open, the golden sugar particles stream gently inside, and the meter ticks down to 112. Camera: slow push-in toward an opening cell door. negative_prompt: realistic organ, gore, creepy, deformed, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "10",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm golden morning light. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses) consistent with the reference image, now in a light grey home outfit — NEW scene, do NOT reuse the office background of the reference. Scene: she sits up in her warm bed with morning sunlight streaming in, looking rested, relieved and healthy, holding a green glucose meter reading '112' with a soft smile; no more tingling around her feet. Vertical 9:16, plano medio.",
+    "anim_prompt": "Dra. Lucia holds up the green '112' meter toward the morning light with a relieved, rested smile, then lowers it calmly. Camera: slow gentle push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "11",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68f7/SdegxC5uquikYH0PWs7Om_lgv1eRHo.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm golden hour glow. Keep ONLY the SAME doctor character Lucía (same face, dark bun, round glasses, white coat) from the first reference image — NEW hero call-to-action shot, new framing. Scene: in her warm home study she faces the camera directly, confident and warm with a half-smile, holding the Biozentra Ceylon cinnamon pouch from the second reference image beside her; keep the BioZentra label readable. Warm golden light, lower third kept clear for a call-to-action overlay. Vertical 9:16, plano medio.",
+    "anim_prompt": "Dra. Lucia looks straight at the viewer, firm but warm, holds up the Biozentra pouch and speaks the call to action with a half-smile, mouth moving, then a small inviting gesture toward the viewer. Camera: slow heroic push-in. negative_prompt: deformed label, distorted text, duplicated pouch, creepy face, extra fingers, dead eyes, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  }
+]

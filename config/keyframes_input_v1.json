@@ -1,0 +1,72 @@
+[
+  {
+    "n": "02",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. Use the SAME bedroom as the reference image — same bed, same window with blinds, same framed pictures, and the SAME wooden nightstand in the foreground bottom-left holding the glowing glucose meter, the glass of water and the bottle of pills. Keep the room and this nightstand context visible, cold blue night light, same low 3/4 side angle along the bed. The reclined man is now a translucent anatomical figure (visible skeleton and internal organs) lying in the same pose; through the torso the liver and intestines glow hot red-orange like a furnace producing sugar. Vertical 9:16.",
+    "anim_prompt": "The translucent figure lies reclined breathing slowly while the red-orange glow in its liver and abdomen pulses and intensifies. Camera: slow push-in along the bed toward the glowing torso. negative_prompt: gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. SAME bedroom as the reference image, keep the same nightstand (glucose meter, glass, pills) and bed visible, cold blue night light. The translucent anatomical figure lies reclined in the same bed; the red glowing circulatory system streams down the legs and the feet glow hot orange, burning. View angled along the body toward the feet, the foreground nightstand still visible. Vertical 9:16.",
+    "anim_prompt": "The hot red glow streams down the legs into the feet, burning brighter, while the figure lies still. Camera: slow dolly along the body toward the glowing feet. negative_prompt: gore, blood splatter, deformed feet, extra toes, text, watermark, logo, blurry, camera spinning",
+    "duration": "5"
+  },
+  {
+    "n": "04",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style, SAME bedroom as the reference image kept softly in the background for context (dark bed, dim nightstand). Extreme CLOSE-UP of the translucent figure's two bare foot soles seen from below at the foot of the bed; bright white-blue electric sparks crackle between and across the soles (nerve pain) over red glowing vessels inside, with one patch fading to dull cold grey (numbness). Cold blue light. Vertical 9:16.",
+    "anim_prompt": "White-blue sparks crackle and jump across the foot soles, flaring red-hot, while one area dims to cold grey going numb. Camera: slow push-in toward the soles. negative_prompt: gore, blood splatter, deformed feet, extra toes, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. SAME bedroom as the reference image, keep the bed and the nightstand (glass of water, glucose meter) visible at the edge for context, cold blue night light. The translucent anatomical figure lies in the same bed; pale smoke and steam rise from the abdomen and the red glow travels down toward the kidneys and pelvis. Front three-quarter view from above the torso. Vertical 9:16.",
+    "anim_prompt": "Pale steam rises from the abdomen and the red glow spreads down into the kidneys as the figure sleeps. Camera: slow push-in down the torso toward the pelvis. negative_prompt: gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. It is 4 AM in the SAME bedroom as the reference image — same bed, same window, same framed pictures, and the SAME nightstand with the glucose meter prominent in the foreground. Keep the room identical, dim cold blue light. The translucent anatomical figure has sat up and is perched hunched on the EDGE of the same bed, side view, both feet on the floor glowing hot red. Do NOT change to a bathroom. Vertical 9:16.",
+    "anim_prompt": "The figure pushes up and sits hunched on the edge of the bed, feet glowing red on the floor. Camera: slow push-in from the foreground nightstand to the hunched figure. negative_prompt: bathroom, tiles, gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. SAME bedroom as the reference image, keep the bed, the framed pictures on the wall and the nightstand visible, cold blue night light. The translucent anatomical figure (skeleton with ghostly skin) sits on the edge of the same bed holding a digital glucose meter glowing red '250' near its chest; the intestines glow hot red below the ribcage. Vertical 9:16.",
+    "anim_prompt": "The figure lifts the glucose meter showing red '250', the glow on its ribcage, intestines pulsing red below. Camera: slow push-in toward the meter and hands. negative_prompt: gore, blood splatter, deformed hands, extra fingers, text artifacts, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. SAME bedroom as the reference image, keep the bed and the nightstand with the pill bottle in the foreground for context, cold blue light. The translucent anatomical figure sits on the edge of the same bed holding a bowl of fresh green salad on a small tray and lifting a forkful to its mouth (eating healthy), yet its liver and abdomen still glow stubbornly hot red. Vertical 9:16.",
+    "anim_prompt": "The figure lifts a forkful of salad to its mouth and chews, yet the red glow in its liver and abdomen does not fade. Camera: slow dolly-in three-quarter toward the torso. negative_prompt: gore, blood splatter, deformed hands, extra fingers, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "09",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. SAME bedroom as the reference image, same bed and same foreground nightstand still visible, but the room now begins to WARM from cold blue to gold. The translucent anatomical figure reclines back against the pillows in the same bed; a warm golden healing light enters and the red glow in its torso starts turning to warm gold. Vertical 9:16.",
+    "anim_prompt": "A warm golden light spreads through the figure's torso, the red glow giving way to gold as the room warms. Camera: slow push-in toward the warming torso. negative_prompt: gore, blood splatter, text, watermark, logo, blurry, camera spinning",
+    "duration": "10"
+  },
+  {
+    "n": "10",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png"],
+    "kf_prompt": "Hyperrealistic medical 3D anatomical render, anatomy-app style. The SAME bedroom as the reference image now bathed in WARM GOLDEN healthy light, same bed and same foreground nightstand visible. The translucent anatomical figure looks healthy and relieved, reclined comfortably in the same bed; its organs glow a calm warm GOLD instead of red — the sugar has come down. Vertical 9:16.",
+    "anim_prompt": "The figure relaxes, relieved, as its organs settle into a calm steady golden glow and warm light fills the room. Camera: slow gentle push-in toward the healed figure. negative_prompt: red glow, gore, blood splatter, deformed, text, watermark, logo, blurry, camera spinning",
+    "duration": "5"
+  },
+  {
+    "n": "11",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d61a0/oVz3hA077ahUDgLJiSl04_pjpHb8C9.png", "https://v3b.fal.media/files/b/0a9d5e21/p-PBHiazpVy4EyWA5l27-_1780854089320.png"],
+    "kf_prompt": "Hyperrealistic cinematic 3D product render, warm golden light. THE HERO PRODUCT SHOT (the one that breaks from the anatomy). Close framing on the SAME wooden nightstand from the first reference image, the bed and bedroom warm and softly behind for context. Standing UPRIGHT ON the nightstand: the Biozentra Ceylon cinnamon pouch from the second reference image as a friendly animated MASCOT character — large round cheerful cartoon eyes and a wide happy smile clearly visible on the upper-front of the pouch, plus two small cartoon arms; keep the BioZentra Ceylon Cinnamon label clearly readable just below the face. Cinnamon sticks and golden MCT oil droplets orbit around it with warm golden sparkles that do NOT cover the face. Leave the lower third of the frame clear for a call-to-action overlay. Vertical 9:16.",
+    "anim_prompt": "The pouch mascot bounces cheerfully on the nightstand and waves its little arms while cinnamon sticks and golden droplets orbit around it and warm golden sparkles drift up; its smiling face stays clearly visible. Camera: dynamic heroic push-in toward the smiling pouch, lower third kept clear. negative_prompt: deformed label, distorted text, creepy face, hidden face, extra limbs, duplicated pouch, on the bed, watermark, blurry, camera spinning",
+    "duration": "10"
+  }
+]

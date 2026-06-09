@@ -1,0 +1,9 @@
+[
+  {
+    "n": "01",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, dramatic moody lighting. A cute but STERN anthropomorphic cartoon GLUCOMETER character: a handheld blood-glucose meter standing upright, its small rectangular SCREEN is its face showing two expressive angry eyes and a glowing red number, with tiny stubby arms. It stands on a wooden nightstand half-emerging from an open drawer, pointing one little arm accusingly toward the viewer. Dark bedroom at night, cold blue with a warm amber accent, a tense worried mood. Vertical 9:16, the glucometer centered, lower third kept clear.",
+    "anim_prompt": "The glucometer character leans forward and points accusingly at the viewer, its screen-face eyes narrowing and its display flickering as it scolds. Camera: slow push-in to its screen-face. negative_prompt: deformed, creepy, extra limbs, melted, distorted text, watermark, logo, blurry, camera spinning, floating, realistic human",
+    "duration": "10"
+  }
+]

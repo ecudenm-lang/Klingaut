@@ -1,0 +1,58 @@
+[
+  {
+    "n": "02",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6a00/-0ewMa13RartI67pDaZVF_pnx7clgZ.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation. Keep ONLY the SAME cartoon LATINA MOTHER (same face, long dark wavy hair, cream cardigan) consistent with the reference image — DIFFERENT shot, new angle. Scene: her young daughter about 9 years old stands beside her gently combing the mother's hair before going out, the little girl looking up curiously and asking; on a side table a few orange-capped pill bottles; the mother's expression is loving but pained. Same warm living room. Vertical 9:16, two-shot.",
+    "anim_prompt": "The little girl gently combs her mother's hair and looks up asking innocently; the mother's eyes lower with bittersweet emotion. Camera: slow gentle push-in. negative_prompt: deformed face, deformed hands, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "03",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, soft melancholic dreamy lighting. A graduation ceremony imagined like a tender daydream: a teenage girl in cap and gown on a sunlit stage holding flowers while people applaud, soft golden haze. In the front row of the audience, ONE empty chair stands out with a folded cream cardigan draped over it (the absent mother). Bittersweet, emotional, hopeful-yet-sad mood. Vertical 9:16.",
+    "anim_prompt": "The graduating girl smiles on stage as petals and applause drift around her; the camera drifts to the empty chair with the folded cardigan. Camera: slow melancholic push-in to the empty chair. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "04",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6a00/-0ewMa13RartI67pDaZVF_pnx7clgZ.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, dark moody night lighting. Keep ONLY the SAME cartoon LATINA MOTHER (same face, long dark wavy hair) consistent with the reference image — COMPLETELY NEW scene, do NOT reuse the living room. Scene: a dark bedroom at night, she sits up in bed just woken, weary and tired, a bedside digital clock glowing '3:00'; cold blue moonlight through the window. Vertical 9:16, plano medio.",
+    "anim_prompt": "The mother wakes in the dark, rubs her eyes wearily and glances at the glowing 3:00 clock, then sits up tiredly. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "05",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6a00/-0ewMa13RartI67pDaZVF_pnx7clgZ.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm determined daylight. Keep ONLY the SAME cartoon LATINA MOTHER (same face, long dark wavy hair, cardigan) consistent with the reference image — NEW shot, new angle. Scene: she stands by a window with warm morning light, her expression shifting from fear to firm determination, chin lifting, a resolved strong look. Vertical 9:16, plano medio.",
+    "anim_prompt": "The mother lifts her chin with growing determination and speaks resolutely to the viewer, mouth moving, a strengthening resolve in her eyes. Camera: slow push-in. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  },
+  {
+    "n": "06",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, friendly flat stylized, NOT realistic anatomy, NO x-ray body. Shown as a video playing on a phone screen held by warm cartoon hands in the foreground: a cute cartoon LIVER character at night leaking glowing golden sugar cubes uncontrollably from a little tap, while a small cartoon 'METFORMINA' pill with a worried face bounces uselessly outside, unable to stop it. Deep night-blue with warm sugar glow. Vertical 9:16.",
+    "anim_prompt": "On the phone screen the cartoon liver pours out golden sugar cubes while the metformina pill bounces uselessly outside; the hands hold the phone steady. Camera: slow push-in to the screen. negative_prompt: realistic organ, anatomical, x-ray, medical render, gore, creepy, deformed, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm clean friendly scientific look, soft amber background. Friendly rounded translucent body CELLS each with a little door; warm Ceylon cinnamon essence and golden MCT oil droplets (matching the Biozentra pouch in the reference image) flow toward them and the cell doors OPEN, letting glowing golden sugar particles flow gently inside the cells instead of staying in the red bloodstream around them. The Biozentra Ceylon cinnamon pouch sits warmly beside, with two cinnamon-colored capsules in front of it; keep the BioZentra label readable. Vertical 9:16.",
+    "anim_prompt": "The warm cinnamon essence flows to the cells, their little doors open and golden sugar streams gently inside; the pouch glows warmly with the two capsules beside it. Camera: slow push-in toward an opening cell door. negative_prompt: realistic organ, gore, creepy, deformed, distorted text, deformed label, duplicated pouch, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6a00/-0ewMa13RartI67pDaZVF_pnx7clgZ.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, bright warm morning light. Keep ONLY the SAME cartoon LATINA MOTHER (same face, long dark wavy hair) consistent with the reference image — NEW joyful scene. Scene: the mother smiles relieved and healthy holding a green glucose meter reading '103', her young daughter (~9) hugging her happily at her side; warm golden light, no more fear, a peaceful bright home. Vertical 9:16, plano medio.",
+    "anim_prompt": "The mother smiles with relief holding up the green '103' meter while her daughter hugs her; she speaks warmly to the viewer, mouth moving. Camera: slow gentle push-in. negative_prompt: deformed face, deformed hands, extra fingers, creepy, distorted text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  },
+  {
+    "n": "09",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d6a00/-0ewMa13RartI67pDaZVF_pnx7clgZ.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "kf_prompt": "3D Pixar-style cartoon animation, warm golden hour glow. Keep ONLY the SAME cartoon LATINA MOTHER (same face, long dark wavy hair, cardigan) from the first reference image — hero call-to-action shot, new framing. Scene: she faces the camera directly, warm and heartfelt with a soft sincere smile, holding the Biozentra Ceylon cinnamon pouch from the second reference image beside her; keep the BioZentra label readable. Warm golden light, lower third kept clear for a call-to-action overlay. Vertical 9:16, plano medio.",
+    "anim_prompt": "The mother looks straight at the viewer, warm and sincere, holds up the Biozentra pouch and speaks the heartfelt call to action, mouth moving, a soft inviting smile. Camera: slow heroic push-in. negative_prompt: deformed label, distorted text, duplicated pouch, creepy face, extra fingers, dead eyes, watermark, logo, blurry, camera spinning, floating",
+    "duration": "10"
+  }
+]

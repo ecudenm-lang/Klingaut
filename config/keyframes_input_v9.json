@@ -1,0 +1,72 @@
+[
+  {
+    "n": "01",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot (rolled cinnamon bark body, big cartoon eyes, golden sparkle aura) stands inside a warm glowing human-body interior (soft red-orange organic walls, veins), smiling confidently and holding up a glowing golden orb of light in one hand, magical sparkles swirling. Cinematic warm lighting, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "The cute cinnamon mascot talks directly to camera, mouth clearly opening and closing with natural articulation, eyes wide open and bright, presenting the glowing golden orb of light that pulses gently, magical sparkles swirl around. Slow push-in, grounded, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "02",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot stands inside the warm human-body interior, making a gentle 'no' gesture with one hand, while three faded translucent icons float and are crossed out with soft red X marks: a blood-sugar drop, a plate of food, and a pill. Cinematic warm lighting, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "The cinnamon mascot talks to camera, mouth articulating naturally, eyes open, shaking its head and waving one hand in a 'no, no, no' gesture as the three icons (sugar drop, plate, pill) appear and get crossed out one by one. Slow push-in, grounded, no orbit.",
+    "duration": "5"
+  },
+  {
+    "n": "03",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. A menacing cartoon VILLAIN LIVER: a large purple-magenta liver character with glowing yellow angry eyes and a sinister grin, emerging from dark red organic veins and shadows. In the foreground the small cute Ceylon cinnamon-stick mascot looks up at it, worried. Dark dramatic red lighting, ominous, highly detailed, stylized cartoon (not anatomical/gory).",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "The villain liver looms and grins menacingly, its yellow eyes glowing, dark veins pulsing; the small cinnamon mascot in front looks up worried and talks to camera, mouth articulating. Slow push-in, ominous, grounded, no orbit.",
+    "duration": "5"
+  },
+  {
+    "n": "04",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16, inside the human body. Four cute scared cartoon characters in a row, each personifying a diabetes symptom: a trembling bare FOOT with little lightning bolts around it (tingling), a worried BATTERY almost empty (fatigue), a sad TOILET (frequent urination), and a bandaged roll with a small red wound (slow healing). Behind them looms the dark purple villain liver with glowing eyes. Moody red lighting, cute but tense, highly detailed, stylized (not gory).",
+    "kf_ref_urls": null,
+    "anim_prompt": "The four symptom characters tremble and react scared — the foot zaps with little lightning, the battery flickers low, the toilet shivers, the bandage winces — while the dark liver looms behind them. Slow push-in, grounded, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "05",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16, inside the human body. A tired, humble cartoon METFORMIN PILL character (a white-and-blue capsule with a weary face, drooping eyes) weakly pushing a single small sugar cube toward a cartoon muscle, looking exhausted and limited. Soft clinical-organic lighting, slightly somber, highly detailed.",
+    "kf_ref_urls": null,
+    "anim_prompt": "The tired metformin pill character talks to camera with a weary honest expression, mouth articulating, then weakly pushes a small sugar cube toward the muscle and sighs, shoulders drooping. Slow push-in, grounded, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "06",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot stands on top of a giant liver and turns a glowing golden ornate KEY inside a brass valve on the liver, shutting OFF a glowing sugar factory; white sugar cubes that were falling now stop in mid-air. Triumphant warm golden light, amber accent, magical sparkles, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "The cinnamon mascot talks to camera confidently, mouth articulating, eyes bright, while turning the glowing golden key in the brass liver valve; the valve powers down and the falling sugar cubes stop and fade. Slow push-in, triumphant, grounded, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "07",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot is gently wrapped by glowing golden COCONUT OIL / MCT droplets that swirl around it like a protective aura and stream toward a glowing translucent body cell, entering it. Vibrant warm golden and amber tones, magical, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "Glowing golden coconut-oil MCT droplets swirl around and wrap the cinnamon mascot, then stream into a glowing cell; the mascot talks to camera, mouth articulating, presenting the flow with a confident smile. Slow push-in, grounded, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "08",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot stands proudly next to the Biozentra product: the real Biozentra POUCH (from the reference packaging image) and a few golden-brown supplement CAPSULES beside it, all glowing with a warm golden halo, soft 'SUGAR CONTROL' golden light. Clean warm golden background, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "anim_prompt": "The cinnamon mascot talks to camera with a proud warm smile, mouth articulating, presenting the Biozentra pouch and capsules with one hand as a golden halo glows behind. Slow push-in, grounded, no orbit.",
+    "duration": "10"
+  },
+  {
+    "n": "09",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot stands confidently pointing directly at the viewer with one hand, a warm determined smile, soft golden glow. Clean warm background, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "The cinnamon mascot talks to camera firmly and warmly, mouth articulating, eyes bright, pointing directly at the viewer with a confident determined smile. Slow push-in, grounded, no orbit.",
+    "duration": "5"
+  },
+  {
+    "n": "10",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same cute Ceylon cinnamon-stick mascot points downward toward a glowing golden 'COMPRAR AHORA' button with a large golden down arrow above it, the Biozentra pouch faintly visible, warm celebratory golden lighting, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://tempfile.aiquickdraw.com/workers/nano/image_1780983215305_sbwkan.png"],
+    "anim_prompt": "The cinnamon mascot talks to camera, mouth articulating, smiling, gesturing down toward the glowing golden 'COMPRAR AHORA' button as the down arrow pulses. Slow push-in, grounded, no orbit.",
+    "duration": "5"
+  }
+]

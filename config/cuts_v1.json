@@ -1,0 +1,13 @@
+[
+  { "n": "01", "start": 0.00,  "end": 6.01,  "rol": "EMOTION", "guion": "Eres diabético y te despiertas con el azúcar alta, sin haber comido. Este es el perturbador fenómeno que lo explica." },
+  { "n": "02", "start": 6.01,  "end": 13.67, "rol": "SCIENCE", "guion": "Es medianoche y te acabas de dormir. Todo parece tranquilo, pero dentro de ti tu hígado está produciendo azúcar a toda máquina." },
+  { "n": "03", "start": 13.67, "end": 18.55, "rol": "SCIENCE", "guion": "Directo a las 2 de la mañana, el azúcar ya llegó a tus pies y empiezan a quemar silenciosamente." },
+  { "n": "04", "start": 18.55, "end": 24.15, "rol": "SCIENCE", "guion": "Los nervios. Primero hormigueo, después ardor, después dejas de sentir. Y ahí empieza lo peor." },
+  { "n": "05", "start": 24.15, "end": 32.29, "rol": "SCIENCE", "guion": "Mañana tu azúcar está en su punto más alto. El hígado no para, y el azúcar ahora llega a tus riñones, dañando tu cuerpo mientras duermes sin que lo sepas." },
+  { "n": "06", "start": 32.29, "end": 39.83, "rol": "EMOTION", "guion": "Las 4 de la mañana. Te despiertas, vas al baño y los pies te arden. Piensas que es normal, pero no. Es la diabetes dañando tu cuerpo por dentro." },
+  { "n": "07", "start": 39.83, "end": 49.32, "rol": "SCIENCE", "guion": "Te levantas y te mides: 250. Cuidas tu dieta constantemente, pero tu hígado no: produce azúcar las 24 horas del día. Y la fábrica sigue encendida como si nada." },
+  { "n": "08", "start": 49.32, "end": 56.28, "rol": "SCIENCE", "guion": "Tus músculos absorben algo de azúcar, pero el resto se queda atrapado en tu sangre. Y la metformina no logra que entre a tus células." },
+  { "n": "09", "start": 56.28, "end": 64.80, "rol": "SCIENCE", "guion": "Pero la canela de Ceilán de verdad sí lo logra. Se llama Biozentra: canela de Ceilán envuelta en MCT que llega a tus células, abre la puerta y deja que el azúcar entre." },
+  { "n": "10", "start": 64.80, "end": 69.73, "rol": "SCIENCE", "guion": "Y empieza a bajar en tu sangre. Dos cápsulas al día, y la diabetes deja de avanzar." },
+  { "n": "11", "start": 69.73, "end": 78.95, "rol": "CONCEPT", "guion": "7.200 mg de canela de Ceilán envuelta en MCT, en un solo frasco, que te ayudan a regular tu azúcar y a controlar la diabetes. Consíguela haciendo clic acá abajo." }
+]

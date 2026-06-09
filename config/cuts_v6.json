@@ -1,0 +1,10 @@
+[
+  { "n": "01", "start": 0.00,  "end": 6.31,  "guion": "¿Vas a seguir ignorando tu diabetes? Soy tu glucómetro. Hace semanas que no mides tu azúcar. Me guardaste en el cajón." },
+  { "n": "02", "start": 6.31,  "end": 13.99, "guion": "Ayer comiste sin medir, y tu azúcar llegó a trescientos cuarenta. Pegándose en tus venas como sarro. Y ni te enteraste." },
+  { "n": "03", "start": 13.99, "end": 21.47, "guion": "Te dices: ya me estoy cuidando. Pero amaneces destruido y sigues seco. No es la edad. Es el azúcar." },
+  { "n": "04", "start": 21.47, "end": 28.67, "guion": "¿Sientes ese hormigueo? Ese zumbido que no para. ¿Sabes qué es? Son tus nervios apagándose. Pero tú sigues." },
+  { "n": "05", "start": 28.67, "end": 37.25, "guion": "Yo también tengo un límite. Te mostraba doscientos y no te importaba. El azúcar se pegaba en tus riñones, tapándolos. Para ti solo eran números fríos." },
+  { "n": "06", "start": 37.25, "end": 45.29, "guion": "Me prendías y el número subía, porque no había nada que recogiera ese azúcar. Hasta que encontré Biozentra: canela de Ceilán de verdad." },
+  { "n": "07", "start": 45.29, "end": 54.03, "guion": "Sin levantarte al baño. Amaneces y no estás destruido. Tu familia te ve diferente. Y yo lo marco. Deja en paz tus riñones, se llama Biozentra." },
+  { "n": "08", "start": 54.03, "end": 62.75, "guion": "Canela de Ceilán envuelta en MCT, que ayuda a que el azúcar entre a tus células y baje en tu sangre. Sácame del cajón. Y consíguela haciendo clic abajo." }
+]

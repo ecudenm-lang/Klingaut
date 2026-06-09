@@ -1,0 +1,98 @@
+[
+  {
+    "n": "01",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/Ex5IGub0_-CoQcAu6iWwy_0IVuu9zW.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He pushes against the heavy iron cell bars as they slowly close, the pendulum wall clock swinging, glancing worried toward the clock. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "02",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87be/IpeAiWrktqFN8zNjV0c6K_iZtXVHHh.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He gestures toward the large translucent cell as its round door slowly closes and golden glucose spheres bounce and pile up locked outside. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "03",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/aNFC1VroBwKGINjQpuxtg_bYdsMYOV.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He opens his arms and gestures across the four-stage chart as the arrow advances from green toward red, concerned but composed. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 5,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "04",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/p65iZ0-auqgPsGd3GRbXP_n0xROoFe.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. A gentle breeze moves the green plants, he opens his arms toward the sunny cinnamon plantation, soft sun rays, hopeful and warm. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "05",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/qz3xXPaKCtulTNQH6FY68_SwHdj4Af.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He turns the glowing golden key in the cell-door keyhole and the round door slowly swings open releasing warm golden light, gentle and triumphant. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "06",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87be/nixuTbRY8Aghsvpi7rlfa_Yf9BjsDa.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. Glowing golden MCT oil droplets flow smoothly through the open cell door into the cell, he gestures presenting the flow, confident. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "07",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/XSYAejiSOBjcmJxZuS01f_AjVOSmxF.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He raises one hand in a stop-beware gesture, frowning, the red warning sign pulses and the little cartoon liver looks stressed and sweats. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "08",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/IVauEIryX9QvVEw4gQZRW_8BoxvcpE.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He lifts the light Ceylon cinnamon quill and presents the Biozentra pouch with a reassuring nod, fresh forest and river behind him. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "09",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/_1T11TlBEDSN2pIbjavFN_IaF0iQQh.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He lifts the magnifying glass to the label then turns toward the smiling group of healthy people, reassuring. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 10,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "10",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87be/M2JxgPzCjMI0qCkLhiW28_mp9e6r0f.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He holds up the Biozentra pouch and a spoonful with a warm smile, the family smiles in the background, the A1C chart arrow ticks downward. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 5,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "11",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87cd/paspO_8VnnF7NOy9QBcdm_9uaz3YSe.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He presents the Biozentra pouch and gestures to the glowing golden guarantee seal with a confident reassuring smile. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 5,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  },
+  {
+    "n": "12",
+    "image_url": "https://v3b.fal.media/files/b/0a9d87b9/rmBil4pic_FLsK0FG13h3_OluYhd46.png",
+    "prompt": "The Ceylon cinnamon-stick doctor talks directly to camera, his mouth clearly opening and closing with natural lip and jaw articulation in sync with speech, his eyes stay wide open and engaged looking toward the camera with natural blinking,  lively expressive facial animation, eyebrows and eyes moving. He gestures toward the bright natural path then points down toward the camera, a warm confident smile, gentle breeze. Grounded and physical, slow push-in, no camera orbit.",
+    "duration": 5,
+    "negative_prompt": "blurry, low quality, distorted, frozen, static pose, deformed hands, extra fingers, deformed face, watermark, text, logo, floating in void, spinning, orbiting, weightless",
+    "cfg_scale": 0.5
+  }
+]

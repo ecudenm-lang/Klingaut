@@ -1,0 +1,9 @@
+[
+  {
+    "n": "11",
+    "kf_prompt": "Pixar-style 3D animation, vertical 9:16. The same Ceylon cinnamon-stick doctor mascot confidently presents the Biozentra product pouch (from the reference packaging image) with both hands, and beside him a glowing plain golden circular guarantee seal badge with a ribbon and a embossed laurel wreath, completely blank with NO text and NO numbers. Clean warm studio background, trustworthy lighting, amber accent, highly detailed.",
+    "kf_ref_urls": ["https://v3b.fal.media/files/b/0a9d87ac/osTiKEVnOf9_dH3efK9xS_T1LoxwTx.png", "https://v3b.fal.media/files/b/0a9d68e5/c67nmCJiJnNNpS2Z8t_Pm_1780881608764.png"],
+    "anim_prompt": "Slow push-in. The cinnamon doctor presents the Biozentra pouch and gestures to the glowing golden guarantee seal with a confident reassuring smile, his mouth moving as he speaks. Grounded, cinematic, no orbit.",
+    "duration": "5"
+  }
+]

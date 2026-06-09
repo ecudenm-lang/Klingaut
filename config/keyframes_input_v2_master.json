@@ -1,0 +1,9 @@
+[
+  {
+    "n": "01",
+    "kf_ref_urls": null,
+    "kf_prompt": "3D Pixar-style cartoon animation, warm cinematic lighting. A friendly stylized cartoon FEMALE DOCTOR named Lucía, around 50 years old, warm Latina features, dark hair pulled back in a neat tight bun, round tortoiseshell glasses, kind but serious expressive eyes, wearing a white doctor's coat over a soft teal blouse with a stethoscope around her neck. She sits at her clean clinic desk in a warm cozy medical office (wooden desk, shelves with books and a few supplement jars, framed diploma on the wall, soft window light on the left); a small orange-capped METFORMINA pill bottle rests on the desk. She looks directly at the viewer with a calm, weighty, sentencing expression, hands clasped on the desk. Subtle warm amber accent color in the room. Vertical 9:16, plano medio, slight low angle, lower third kept clear.",
+    "anim_prompt": "Dra. Lucia looks straight at the viewer and speaks with calm authority, her mouth moving naturally as she talks, then a subtle slow head shake for emphasis. Camera: slow push-in to her face. The Metformina bottle stays visible in the foreground. negative_prompt: deformed face, extra fingers, creepy, dead eyes, distorted mouth, text, watermark, logo, blurry, camera spinning, floating",
+    "duration": "5"
+  }
+]
